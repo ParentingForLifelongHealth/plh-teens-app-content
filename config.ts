@@ -1,5 +1,5 @@
 import { generateDeploymentConfig } from "scripts";
-const config = generateDeploymentConfig("plh");
+const config = generateDeploymentConfig("plh_teens");
 import { SKINS } from "./skins";
 
 /**
@@ -20,6 +20,11 @@ config.android = {
 config.translations = {
   translated_strings_path: "packages/app-data/translations_source/from_translators",
   source_strings_path: "packages/app-data/translations_source/to_translate",
+};
+
+config.git = {
+  content_repo: "https://github.com/IDEMSInternational/plh-teens-app-content.git",
+  content_tag_latest: "1.1.1",
 };
 
 config.app_data.assets_filter_function = (fileEntry) => !fileEntry.relativePath.includes("uncompressed")

@@ -27,6 +27,8 @@ config.git = {
   content_tag_latest: "1.1.1",
 };
 
+config.app_data.output_path = "./app_data";
+
 config.app_data.assets_filter_function = (fileEntry) => !fileEntry.relativePath.includes("uncompressed")
 
 config.app_config.APP_LANGUAGES.default = "gb_en";

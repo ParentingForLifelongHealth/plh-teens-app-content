@@ -11,40 +11,18 @@
       "tool_3_button_go_to_template": "w_self_care_reward",
       "title": "How to do self-care",
       "_translations": {
-        "title": {
-          "tz_sw": true
-        },
-        "tool_1_title": {
-          "tz_sw": true
-        },
-        "tool_1_text": {
-          "tz_sw": true
-        },
-        "tool_1_button_text": {
-          "tz_sw": true
-        },
-        "tool_2_title": {
-          "tz_sw": true
-        },
-        "tool_2_text": {
-          "tz_sw": true
-        },
-        "tool_2_button_text": {
-          "tz_sw": true
-        },
-        "tool_3_title": {
-          "tz_sw": true
-        },
-        "tool_3_text": {
-          "tz_sw": true
-        },
-        "tool_3_button_text": {
-          "tz_sw": true
-        },
+        "title": {},
+        "tool_1_title": {},
+        "tool_1_text": {},
+        "tool_1_button_text": {},
+        "tool_2_title": {},
+        "tool_2_text": {},
+        "tool_2_button_text": {},
+        "tool_3_title": {},
+        "tool_3_text": {},
+        "tool_3_button_text": {},
         "tool_4_title": {},
-        "bottom_text": {
-          "tz_sw": true
-        }
+        "bottom_text": {}
       },
       "_translatedFields": {
         "title": {
@@ -100,9 +78,7 @@
       "id": "w_1on1",
       "title": "How to spend one-on-one time",
       "_translations": {
-        "title": {
-          "tz_sw": true
-        },
+        "title": {},
         "tool_1_title": {},
         "tool_1_text": {},
         "tool_2_title": {},
@@ -149,31 +125,15 @@
       "id": "w_praise",
       "title": "How to praise",
       "_translations": {
-        "title": {
-          "tz_sw": true
-        },
-        "tool_1_title": {
-          "tz_sw": true
-        },
-        "tool_1_text": {
-          "tz_sw": true
-        },
-        "tool_2_title": {
-          "tz_sw": true
-        },
-        "tool_2_text": {
-          "tz_sw": true
-        },
-        "tool_3_title": {
-          "tz_sw": true
-        },
-        "tool_3_text": {
-          "tz_sw": true
-        },
+        "title": {},
+        "tool_1_title": {},
+        "tool_1_text": {},
+        "tool_2_title": {},
+        "tool_2_text": {},
+        "tool_3_title": {},
+        "tool_3_text": {},
         "tool_4_title": {},
-        "bottom_text": {
-          "tz_sw": true
-        }
+        "bottom_text": {}
       },
       "_translatedFields": {
         "title": {
@@ -217,25 +177,13 @@
       "id": "w_instruct",
       "title": "How to give positive instructions",
       "_translations": {
-        "title": {
-          "tz_sw": true
-        },
-        "tool_1_title": {
-          "tz_sw": true
-        },
-        "tool_1_text": {
-          "tz_sw": true
-        },
-        "tool_2_title": {
-          "tz_sw": true
-        },
-        "tool_2_text": {
-          "tz_sw": true
-        },
+        "title": {},
+        "tool_1_title": {},
+        "tool_1_text": {},
+        "tool_2_title": {},
+        "tool_2_text": {},
         "tool_3_title": {},
-        "tool_3_text": {
-          "tz_sw": true
-        },
+        "tool_3_text": {},
         "tool_4_title": {}
       },
       "_translatedFields": {
@@ -276,24 +224,16 @@
       "id": "w_stress",
       "title": "How to manage stress",
       "_translations": {
-        "title": {
-          "tz_sw": true
-        },
-        "tool_1_title": {
-          "tz_sw": true
-        },
+        "title": {},
+        "tool_1_title": {},
         "tool_1_text": {},
-        "tool_2_title": {
-          "tz_sw": true
-        },
+        "tool_2_title": {},
         "tool_2_text": {},
         "tool_3_title": {},
         "tool_3_text": {},
         "tool_4_title": {},
         "tool_4_text": {},
-        "bottom_text": {
-          "tz_sw": true
-        }
+        "bottom_text": {}
       },
       "_translatedFields": {
         "title": {
@@ -345,36 +285,16 @@
       "tool_4_image_asset": "plh_images/workshops/w_solve/tools/tool_4.svg",
       "title": "How to solve problems",
       "_translations": {
-        "title": {
-          "tz_sw": true
-        },
-        "top_text": {
-          "tz_sw": true
-        },
-        "tool_1_title": {
-          "tz_sw": true
-        },
-        "tool_1_text": {
-          "tz_sw": true
-        },
-        "tool_2_title": {
-          "tz_sw": true
-        },
-        "tool_2_text": {
-          "tz_sw": true
-        },
-        "tool_3_title": {
-          "tz_sw": true
-        },
-        "tool_3_text": {
-          "tz_sw": true
-        },
-        "tool_4_title": {
-          "tz_sw": true
-        },
-        "tool_4_text": {
-          "tz_sw": true
-        }
+        "title": {},
+        "top_text": {},
+        "tool_1_title": {},
+        "tool_1_text": {},
+        "tool_2_title": {},
+        "tool_2_text": {},
+        "tool_3_title": {},
+        "tool_3_text": {},
+        "tool_4_title": {},
+        "tool_4_text": {}
       },
       "_translatedFields": {
         "title": {
@@ -432,28 +352,18 @@
       "tool_4_button_go_to_template": "w_money_learn_5_temp",
       "title": "How to budget & save",
       "_translations": {
-        "title": {
-          "tz_sw": true
-        },
+        "title": {},
         "tool_1_title": {},
-        "tool_1_text": {
-          "tz_sw": true
-        },
+        "tool_1_text": {},
         "tool_1_button_text": {},
         "tool_2_title": {},
-        "tool_2_text": {
-          "tz_sw": true
-        },
+        "tool_2_text": {},
         "tool_2_button_text": {},
         "tool_3_title": {},
-        "tool_3_text": {
-          "tz_sw": true
-        },
+        "tool_3_text": {},
         "tool_3_button_text": {},
         "tool_4_title": {},
-        "tool_4_text": {
-          "tz_sw": true
-        },
+        "tool_4_text": {},
         "tool_4_button_text": {}
       },
       "_translatedFields": {
@@ -514,28 +424,14 @@
       "id": "w_rules",
       "title": "How to create rules",
       "_translations": {
-        "title": {
-          "tz_sw": true
-        },
-        "top_text": {
-          "tz_sw": true
-        },
-        "tool_1_title": {
-          "tz_sw": true
-        },
-        "tool_1_text": {
-          "tz_sw": true
-        },
-        "tool_2_title": {
-          "tz_sw": true
-        },
+        "title": {},
+        "top_text": {},
+        "tool_1_title": {},
+        "tool_1_text": {},
+        "tool_2_title": {},
         "tool_2_text": {},
-        "tool_3_title": {
-          "tz_sw": true
-        },
-        "tool_3_text": {
-          "tz_sw": true
-        },
+        "tool_3_title": {},
+        "tool_3_text": {},
         "tool_4_title": {}
       },
       "_translatedFields": {
@@ -580,25 +476,13 @@
       "id": "w_consequence",
       "title": "How to give calm consequences",
       "_translations": {
-        "title": {
-          "tz_sw": true
-        },
-        "top_text": {
-          "tz_sw": true
-        },
-        "tool_1_title": {
-          "tz_sw": true
-        },
+        "title": {},
+        "top_text": {},
+        "tool_1_title": {},
         "tool_1_text": {},
-        "tool_2_title": {
-          "tz_sw": true
-        },
-        "tool_2_text": {
-          "tz_sw": true
-        },
-        "tool_3_title": {
-          "tz_sw": true
-        },
+        "tool_2_title": {},
+        "tool_2_text": {},
+        "tool_3_title": {},
         "tool_3_text": {},
         "tool_4_title": {}
       },
@@ -647,34 +531,18 @@
       "tool_3_button_go_to_template": "w_stress_read_3",
       "title": "How to keep your teen safe",
       "_translations": {
-        "title": {
-          "tz_sw": true
-        },
-        "tool_1_title": {
-          "tz_sw": true
-        },
+        "title": {},
+        "tool_1_title": {},
         "tool_1_text": {},
-        "tool_1_button_text": {
-          "tz_sw": true
-        },
-        "tool_2_title": {
-          "tz_sw": true
-        },
+        "tool_1_button_text": {},
+        "tool_2_title": {},
         "tool_2_text": {},
-        "tool_2_button_text": {
-          "tz_sw": true
-        },
+        "tool_2_button_text": {},
         "tool_3_title": {},
-        "tool_3_text": {
-          "tz_sw": true
-        },
-        "tool_3_button_text": {
-          "tz_sw": true
-        },
+        "tool_3_text": {},
+        "tool_3_button_text": {},
         "tool_4_title": {},
-        "bottom_text": {
-          "tz_sw": true
-        }
+        "bottom_text": {}
       },
       "_translatedFields": {
         "title": {
@@ -699,7 +567,7 @@
           "eng": "Online Safety Story"
         },
         "tool_3_title": {
-          "eng": "@GLOBAL.SAFETY_WORD"
+          "eng": "SAFETY WORD"
         },
         "tool_3_text": {
           "eng": "Agree on a @global.safety_word. If something happens that makes your teen upset, uncomfortable or scared, they can say the @global.safety_word  and you will help them without getting angry or punishing them, even if they were doing something wrong. \n\nRemember the story about the @global.safety_word? See it again here."
@@ -720,7 +588,7 @@
       "tool_2_title": "RULES",
       "tool_2_text": "Make rules with your teen about how they can stay safe in your community (especially in risky areas that cannot be avoided) and how they can safely use the apps and websites that they like. \n\nRemember the story about Online Safety? See it again here.",
       "tool_2_button_text": "Online Safety Story",
-      "tool_3_title": "@GLOBAL.SAFETY_WORD",
+      "tool_3_title": "SAFETY WORD",
       "tool_3_text": "Agree on a @global.safety_word. If something happens that makes your teen upset, uncomfortable or scared, they can say the @global.safety_word  and you will help them without getting angry or punishing them, even if they were doing something wrong. \n\nRemember the story about the @global.safety_word? See it again here.",
       "tool_3_button_text": "@global.safety_word Story",
       "tool_4_title": "",
@@ -730,34 +598,16 @@
       "id": "w_crisis",
       "title": "How to deal with crisis",
       "_translations": {
-        "title": {
-          "tz_sw": true
-        },
-        "top_text": {
-          "tz_sw": true
-        },
-        "tool_1_title": {
-          "tz_sw": true
-        },
-        "tool_1_text": {
-          "tz_sw": true
-        },
-        "tool_2_title": {
-          "tz_sw": true
-        },
-        "tool_2_text": {
-          "tz_sw": true
-        },
-        "tool_3_title": {
-          "tz_sw": true
-        },
-        "tool_3_text": {
-          "tz_sw": true
-        },
+        "title": {},
+        "top_text": {},
+        "tool_1_title": {},
+        "tool_1_text": {},
+        "tool_2_title": {},
+        "tool_2_text": {},
+        "tool_3_title": {},
+        "tool_3_text": {},
         "tool_4_title": {},
-        "bottom_text": {
-          "tz_sw": true
-        }
+        "bottom_text": {}
       },
       "_translatedFields": {
         "title": {
@@ -809,33 +659,15 @@
       "tool_4_image_asset": "plh_images/workshops/w_celebrate/read/slide_4.svg",
       "title": "How to support each other",
       "_translations": {
-        "title": {
-          "tz_sw": true
-        },
-        "tool_1_title": {
-          "tz_sw": true
-        },
-        "tool_1_text": {
-          "tz_sw": true
-        },
-        "tool_2_title": {
-          "tz_sw": true
-        },
-        "tool_2_text": {
-          "tz_sw": true
-        },
-        "tool_3_title": {
-          "tz_sw": true
-        },
-        "tool_3_text": {
-          "tz_sw": true
-        },
-        "tool_4_title": {
-          "tz_sw": true
-        },
-        "tool_4_text": {
-          "tz_sw": true
-        }
+        "title": {},
+        "tool_1_title": {},
+        "tool_1_text": {},
+        "tool_2_title": {},
+        "tool_2_text": {},
+        "tool_3_title": {},
+        "tool_3_text": {},
+        "tool_4_title": {},
+        "tool_4_text": {}
       },
       "_translatedFields": {
         "title": {
@@ -882,17 +714,11 @@
         "title": {},
         "top_text": {},
         "tool_1_title": {},
-        "tool_1_text": {
-          "tz_sw": true
-        },
+        "tool_1_text": {},
         "tool_2_title": {},
-        "tool_2_text": {
-          "tz_sw": true
-        },
+        "tool_2_text": {},
         "tool_3_title": {},
-        "tool_3_text": {
-          "tz_sw": true
-        },
+        "tool_3_text": {},
         "tool_4_title": {}
       },
       "_translatedFields": {
@@ -912,7 +738,7 @@
           "eng": "START"
         },
         "tool_2_text": {
-          "eng": "Your teen may feel scared, so as parents we need to start the conversation on body changes and intimate relationships.\n\nStart young (before 9 years) by answering their questions in a simple, accurate way. That builds your and your child’s confidence.\n\nIt is okay to feel uncomfortable. Be open, use the correct words, and get more information for yourself if you do not have all the answers."
+          "eng": "Your teen may feel scared, so as parents we need to start the conversation on body changes and intimate relationships.\n\nStart young (before 9 years) by answering their questions in a simple and honest way. That builds your and your child’s confidence.\n\nIt is okay to feel uncomfortable. Be open, use the correct words, and get more information for yourself if you do not have all the answers."
         },
         "tool_3_title": {
           "eng": "GUIDE"
@@ -928,49 +754,32 @@
       "tool_1_title": "BUILD",
       "tool_1_text": "Build a strong relationship with your teen by spending time with them and showing them you trust them. Create a safe, encouraging space, and avoid judging them.\n\nThat will make your teen share their questions and worries with you, when they need advice or are in a potentially dangerous situation.",
       "tool_2_title": "START",
-      "tool_2_text": "Your teen may feel scared, so as parents we need to start the conversation on body changes and intimate relationships.\n\nStart young (before 9 years) by answering their questions in a simple, accurate way. That builds your and your child’s confidence.\n\nIt is okay to feel uncomfortable. Be open, use the correct words, and get more information for yourself if you do not have all the answers.",
+      "tool_2_text": "Your teen may feel scared, so as parents we need to start the conversation on body changes and intimate relationships.\n\nStart young (before 9 years) by answering their questions in a simple and honest way. That builds your and your child’s confidence.\n\nIt is okay to feel uncomfortable. Be open, use the correct words, and get more information for yourself if you do not have all the answers.",
       "tool_3_title": "GUIDE",
       "tool_3_text": "Your teen will get information about sex from many different sources. When they feel safe and comfortable with you, you can guide them and build their ability to find good information and solutions now and in the future.\n\nHelp them think about the consequences of behaviours (without shame or blame). Make sure they understand that they should never feel pressured (or pressure someone else) into any sexual activity or relationship.\n\nGet help or information for yourself from other adults or medical professionals.",
       "tool_4_title": ""
     },
     {
       "id": "w_svp",
+      "tool_2_button_go_to_template": "w_svp_learn_warning_signs",
+      "tool_3_button_go_to_template": "w_svp_learn_use_voice",
+      "tool_4_button_go_to_template": "w_svp_learn_use_body",
       "title": "How to stay safe",
       "_translations": {
-        "title": {
-          "tz_sw": true
-        },
-        "top_text": {
-          "tz_sw": true
-        },
-        "tool_1_title": {
-          "tz_sw": true
-        },
-        "tool_1_text": {
-          "tz_sw": true
-        },
-        "tool_2_title": {
-          "tz_sw": true
-        },
-        "tool_2_text": {
-          "tz_sw": true
-        },
-        "tool_3_title": {
-          "tz_sw": true
-        },
-        "tool_3_text": {
-          "tz_sw": true
-        },
+        "title": {},
+        "top_text": {},
+        "tool_1_title": {},
+        "tool_1_text": {},
+        "tool_2_title": {},
+        "tool_2_text": {},
+        "tool_2_button_text": {},
+        "tool_3_title": {},
+        "tool_3_text": {},
+        "tool_3_button_text": {},
         "tool_4_title": {},
-        "tool_4_text": {
-          "tz_sw": true
-        },
-        "tool_4_button_text": {
-          "tz_sw": true
-        },
-        "bottom_text": {
-          "tz_sw": true
-        }
+        "tool_4_text": {},
+        "tool_4_button_text": {},
+        "bottom_text": {}
       },
       "_translatedFields": {
         "title": {
@@ -983,19 +792,25 @@
           "eng": "KNOW IT"
         },
         "tool_1_text": {
-          "eng": "Know the difference between healthy and unhealthy relationships. If you are attacked, know that it is never your fault. You are allowed to say and do what is needed to stay safe and get away – do not worry about what others may think.\n\nYou are worth being defended. You are strong and powerful."
+          "eng": "Know the difference between healthy and unhealthy relationships. If you are attacked, know that it is never your fault. You are allowed to say and do what is needed to stay safe and get away – do not worry about what others may think.\n\nYou are worth defending. You are strong and powerful."
         },
         "tool_2_title": {
           "eng": "SEE IT"
         },
         "tool_2_text": {
-          "eng": "When someone makes you (or someone else) feel uncomfortable with what they say or do, that is never okay! We all have the right to feel safe, especially at home.\n\nSee the warning signs and follow your intuition. When you feel attacked with words or actions, your goal is to get away."
+          "eng": "When someone makes you (or someone else) feel uncomfortable with what they say or do, that is never okay! We all have the right to feel safe, especially at home.\n\nSee the warning signs and follow your feeling. When you feel attacked with words or actions, your goal is to get away."
+        },
+        "tool_2_button_text": {
+          "eng": "@data.learn.warning_signs.title"
         },
         "tool_3_title": {
           "eng": "SAY IT"
         },
         "tool_3_text": {
           "eng": "Your voice can stop many attacks. Yell ‘No!’, call for help, warn of consequences, name the behaviour, act crazy, pretend to go along to buy time, use humour, calm them down, or negotiate. \n\nBe clear, confident and direct. Speak using your voice, body language and eye contact."
+        },
+        "tool_3_button_text": {
+          "eng": "@data.learn.use_voice.title"
         },
         "tool_4_title": {
           "eng": "DO IT"
@@ -1004,43 +819,37 @@
           "eng": "When our voice is not changing the situation, we can use our bodies.\n\nKnow the ‘weapons’ on your body and know the ‘targets’ on your attacker’s body. Use what is free on your body that you can fight with and what is open on the attacker’s body to hit."
         },
         "tool_4_button_text": {
-          "eng": "Use your body"
+          "eng": "@data.learn.use_body.title"
         },
         "bottom_text": {
-          "eng": "If you do get hurt by someone, remember it is never your fault. Ask someone you trust for help, and make sure your teen knows they can tell you anything so you can find a solution together."
+          "eng": "If you as a teen or parent do get hurt by someone, remember it is never your fault. Ask someone you trust for help. \n\nAs a parent, make sure your teen knows they can tell you anything, so you can find a solution together."
         }
       },
       "top_text": "In a dangerous situation, we may not know what to do and freeze – this is normal. These tools can help you and your teen stay safe.",
       "tool_1_title": "KNOW IT",
-      "tool_1_text": "Know the difference between healthy and unhealthy relationships. If you are attacked, know that it is never your fault. You are allowed to say and do what is needed to stay safe and get away – do not worry about what others may think.\n\nYou are worth being defended. You are strong and powerful.",
+      "tool_1_text": "Know the difference between healthy and unhealthy relationships. If you are attacked, know that it is never your fault. You are allowed to say and do what is needed to stay safe and get away – do not worry about what others may think.\n\nYou are worth defending. You are strong and powerful.",
       "tool_2_title": "SEE IT",
-      "tool_2_text": "When someone makes you (or someone else) feel uncomfortable with what they say or do, that is never okay! We all have the right to feel safe, especially at home.\n\nSee the warning signs and follow your intuition. When you feel attacked with words or actions, your goal is to get away.",
+      "tool_2_text": "When someone makes you (or someone else) feel uncomfortable with what they say or do, that is never okay! We all have the right to feel safe, especially at home.\n\nSee the warning signs and follow your feeling. When you feel attacked with words or actions, your goal is to get away.",
+      "tool_2_button_text": "@data.learn.warning_signs.title",
       "tool_3_title": "SAY IT",
       "tool_3_text": "Your voice can stop many attacks. Yell ‘No!’, call for help, warn of consequences, name the behaviour, act crazy, pretend to go along to buy time, use humour, calm them down, or negotiate. \n\nBe clear, confident and direct. Speak using your voice, body language and eye contact.",
+      "tool_3_button_text": "@data.learn.use_voice.title",
       "tool_4_title": "DO IT",
       "tool_4_text": "When our voice is not changing the situation, we can use our bodies.\n\nKnow the ‘weapons’ on your body and know the ‘targets’ on your attacker’s body. Use what is free on your body that you can fight with and what is open on the attacker’s body to hit.",
-      "tool_4_button_text": "Use your body",
-      "bottom_text": "If you do get hurt by someone, remember it is never your fault. Ask someone you trust for help, and make sure your teen knows they can tell you anything so you can find a solution together."
+      "tool_4_button_text": "@data.learn.use_body.title",
+      "bottom_text": "If you as a teen or parent do get hurt by someone, remember it is never your fault. Ask someone you trust for help. \n\nAs a parent, make sure your teen knows they can tell you anything, so you can find a solution together."
     },
     {
       "id": "w_grief",
       "title": "How to cope with grief",
       "_translations": {
-        "title": {
-          "tz_sw": true
-        },
+        "title": {},
         "tool_1_title": {},
-        "tool_1_text": {
-          "tz_sw": true
-        },
+        "tool_1_text": {},
         "tool_2_title": {},
-        "tool_2_text": {
-          "tz_sw": true
-        },
+        "tool_2_text": {},
         "tool_3_title": {},
-        "tool_3_text": {
-          "tz_sw": true
-        },
+        "tool_3_text": {},
         "tool_4_title": {}
       },
       "_translatedFields": {
@@ -1048,79 +857,63 @@
           "eng": "How to cope with grief"
         },
         "tool_1_title": {
-          "eng": "EVERYONE IS DIFFERENT"
+          "eng": "ACCEPT"
         },
         "tool_1_text": {
-          "eng": "There is no correct way to respond to grief and no timeline for it to end. It is different for everybody. This is okay. Do what feels right for you and your child."
+          "eng": "Losing someone we love can affect us for weeks, months or years. You do not have to feel better quickly, and there is no right or wrong way to grieve.\n\nYour teen may feel sad, angry, not understand or not believe it, or feel unwell. They may have pains, nightmares, or problems at school. They may seem happy, but still feel sad. All of this is normal."
         },
         "tool_2_title": {
           "eng": "SAY GOODBYE"
         },
         "tool_2_text": {
-          "eng": "Some people hold a ceremony or have a special meal to celebrate the person and say goodbye.\n\nIt can help to make a box of memories to put things that remind them of the person."
+          "eng": "Find a way to say goodbye that feels right for you and your family. Some people hold a ceremony or have a special meal to celebrate the person.\n\nAsk your teen what they would want to do to say goodbye."
         },
         "tool_3_title": {
           "eng": "TALK"
         },
         "tool_3_text": {
-          "eng": "It can help just to talk about the person when you think about them or write down how you feel."
+          "eng": "It can help just to talk about the person when you think about them or write down how you feel. Share your memories, the good ones and the difficult ones. \n\nChildren may feel like the person’s death was their fault or that they behaved badly. Tell them clearly that they did nothing wrong. Explain that your teen can always tell you how they feel, and encourage them by also sharing how you feel."
         },
         "tool_4_title": {
           "eng": ""
         }
       },
-      "tool_1_title": "EVERYONE IS DIFFERENT",
-      "tool_1_text": "There is no correct way to respond to grief and no timeline for it to end. It is different for everybody. This is okay. Do what feels right for you and your child.",
+      "tool_1_title": "ACCEPT",
+      "tool_1_text": "Losing someone we love can affect us for weeks, months or years. You do not have to feel better quickly, and there is no right or wrong way to grieve.\n\nYour teen may feel sad, angry, not understand or not believe it, or feel unwell. They may have pains, nightmares, or problems at school. They may seem happy, but still feel sad. All of this is normal.",
       "tool_2_title": "SAY GOODBYE",
-      "tool_2_text": "Some people hold a ceremony or have a special meal to celebrate the person and say goodbye.\n\nIt can help to make a box of memories to put things that remind them of the person.",
+      "tool_2_text": "Find a way to say goodbye that feels right for you and your family. Some people hold a ceremony or have a special meal to celebrate the person.\n\nAsk your teen what they would want to do to say goodbye.",
       "tool_3_title": "TALK",
-      "tool_3_text": "It can help just to talk about the person when you think about them or write down how you feel.",
+      "tool_3_text": "It can help just to talk about the person when you think about them or write down how you feel. Share your memories, the good ones and the difficult ones. \n\nChildren may feel like the person’s death was their fault or that they behaved badly. Tell them clearly that they did nothing wrong. Explain that your teen can always tell you how they feel, and encourage them by also sharing how you feel.",
       "tool_4_title": ""
     },
     {
       "id": "w_learn",
       "title": "How to help your teen learn",
       "_translations": {
-        "title": {
-          "tz_sw": true
-        },
-        "top_text": {
-          "tz_sw": true
-        },
+        "title": {},
         "tool_1_title": {},
-        "tool_1_text": {
-          "tz_sw": true
-        },
+        "tool_1_text": {},
         "tool_2_title": {},
-        "tool_2_text": {
-          "tz_sw": true
-        },
-        "tool_3_title": {
-          "tz_sw": true
-        },
-        "tool_3_text": {
-          "tz_sw": true
-        },
+        "tool_2_text": {},
+        "tool_3_title": {},
+        "tool_3_text": {},
         "tool_4_title": {}
       },
       "_translatedFields": {
         "title": {
           "eng": "How to help your teen learn"
         },
-        "top_text": {
-          "eng": "Here are some essential tools to help your teen learn."
-        },
         "tool_1_title": {
           "eng": "GET TOGETHER"
         },
         "tool_1_text": {
-          "eng": "People learn better when they learn with others. Spend time with your teen and let them learn with you. When you do activities together, you give them space to learn, make mistakes and ask you questions."
+          "eng": "People learn better when they learn with others. Spend time with your teen and let them learn with you. When you do activities together, you give them space to learn, to make mistakes and to ask you questions."
         },
         "tool_2_title": {
           "eng": "SUPPORT"
         },
         "tool_2_text": {
-          "eng": "Your teen will learn from you if they know you support them. Let them try things without shouting at them. This helps them “learn how to learn”, because they feel safe with you."
+          "eng": "Your teen will learn from you if they know you support them. Let them try things and be patient with them. This helps them “learn how to learn”, because they feel safe with you."
         },
         "tool_3_title": {
           "eng": "PRAISE"
@@ -1132,11 +925,10 @@
           "eng": ""
         }
       },
-      "top_text": "Here are some essential tools to help your teen learn.",
       "tool_1_title": "GET TOGETHER",
-      "tool_1_text": "People learn better when they learn with others. Spend time with your teen and let them learn with you. When you do activities together, you give them space to learn, make mistakes and ask you questions.",
+      "tool_1_text": "People learn better when they learn with others. Spend time with your teen and let them learn with you. When you do activities together, you give them space to learn, to make mistakes and to ask you questions.",
       "tool_2_title": "SUPPORT",
-      "tool_2_text": "Your teen will learn from you if they know you support them. Let them try things without shouting at them. This helps them “learn how to learn”, because they feel safe with you.",
+      "tool_2_text": "Your teen will learn from you if they know you support them. Let them try things and be patient with them. This helps them “learn how to learn”, because they feel safe with you.",
       "tool_3_title": "PRAISE",
       "tool_3_text": "Praising your teen is a powerful way to help them try again. Teens do not get things right the first time and should learn how to try again. Praise them for trying to do things, so they can learn from their mistakes.",
       "tool_4_title": ""

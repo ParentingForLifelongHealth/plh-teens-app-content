@@ -42,9 +42,7 @@
           "name": "title",
           "value": "Ground @global.w_solve_teen_girl for a month",
           "_translations": {
-            "value": {
-              "tz_sw": true
-            }
+            "value": {}
           },
           "hidden": false,
           "type": "set_variable",
@@ -69,9 +67,7 @@
           "name": "text",
           "value": "@global.w_solve_female_caregiver_1: “You cannot go out for the next month”",
           "_translations": {
-            "value": {
-              "tz_sw": true
-            }
+            "value": {}
           },
           "type": "set_variable",
           "_nested_name": "box_image.text",
@@ -95,9 +91,7 @@
           "name": "dashed_box",
           "value": "That didn’t work... Let's try something else.",
           "_translations": {
-            "value": {
-              "tz_sw": true
-            }
+            "value": {}
           },
           "hidden": false,
           "parameter_list": {

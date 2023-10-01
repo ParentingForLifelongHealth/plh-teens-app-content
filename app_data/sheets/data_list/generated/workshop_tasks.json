@@ -7,32 +7,19 @@
       "id": "w_self_care",
       "number": 1,
       "group": "core",
+      "sensitive_content": false,
+      "image_asset": "plh_images/workshops/w_self_care/tools.svg",
       "caregiver_testimonial_audio_asset": "plh_audio/testimonials/caregiver/caregiver_test_w_self_care.mp3",
       "teen_testimonial_audio_asset": "plh_audio/testimonials/teen/teen_test_w_self_care.mp3",
-      "image_asset": "plh_images/workshops/w_self_care/tools.svg",
       "title": "Welcome and Self-Care",
       "_translations": {
-        "title": {
-          "tz_sw": true
-        },
-        "short_title": {
-          "tz_sw": true
-        },
-        "lower_case_title": {
-          "tz_sw": true
-        },
-        "description": {
-          "tz_sw": true
-        },
-        "caregiver_testimonial_script": {
-          "tz_sw": true
-        },
-        "teen_testimonial_script": {
-          "tz_sw": true
-        },
-        "in_text_title": {
-          "tz_sw": true
-        }
+        "title": {},
+        "short_title": {},
+        "lower_case_title": {},
+        "description": {},
+        "caregiver_testimonial_script": {},
+        "teen_testimonial_script": {},
+        "in_text_title": {}
       },
       "_translatedFields": {
         "title": {
@@ -71,29 +58,18 @@
       "id": "w_1on1",
       "number": 2,
       "group": "core",
+      "sensitive_content": false,
+      "image_asset": "plh_images/workshops/w_1on1/tools.svg",
       "caregiver_testimonial_audio_asset": "plh_audio/testimonials/caregiver/caregiver_test_w_1on1.mp3",
       "teen_testimonial_audio_asset": "plh_audio/testimonials/teen/teen_test_w_1on1.mp3",
-      "image_asset": "plh_images/workshops/w_1on1/tools.svg",
       "title": "One-on-One Time",
       "_translations": {
-        "title": {
-          "tz_sw": true
-        },
-        "lower_case_title": {
-          "tz_sw": true
-        },
-        "description": {
-          "tz_sw": true
-        },
-        "caregiver_testimonial_script": {
-          "tz_sw": true
-        },
-        "teen_testimonial_script": {
-          "tz_sw": true
-        },
-        "in_text_title": {
-          "tz_sw": true
-        }
+        "title": {},
+        "lower_case_title": {},
+        "description": {},
+        "caregiver_testimonial_script": {},
+        "teen_testimonial_script": {},
+        "in_text_title": {}
       },
       "_translatedFields": {
         "title": {
@@ -129,29 +105,18 @@
       "id": "w_praise",
       "number": 3,
       "group": "core",
+      "sensitive_content": false,
+      "image_asset": "plh_images/workshops/w_praise/tools.svg",
       "caregiver_testimonial_audio_asset": "plh_audio/testimonials/caregiver/caregiver_test_w_praise.mp3",
       "teen_testimonial_audio_asset": "plh_audio/testimonials/teen/teen_test_w_praise.mp3",
-      "image_asset": "plh_images/workshops/w_praise/tools.svg",
       "title": "Praise",
       "_translations": {
-        "title": {
-          "tz_sw": true
-        },
-        "lower_case_title": {
-          "tz_sw": true
-        },
-        "description": {
-          "tz_sw": true
-        },
-        "caregiver_testimonial_script": {
-          "tz_sw": true
-        },
-        "teen_testimonial_script": {
-          "tz_sw": true
-        },
-        "in_text_title": {
-          "tz_sw": true
-        }
+        "title": {},
+        "lower_case_title": {},
+        "description": {},
+        "caregiver_testimonial_script": {},
+        "teen_testimonial_script": {},
+        "in_text_title": {}
       },
       "_translatedFields": {
         "title": {
@@ -187,29 +152,18 @@
       "id": "w_instruct",
       "number": 4,
       "group": "core",
+      "sensitive_content": false,
+      "image_asset": "plh_images/workshops/w_instruct/tools.svg",
       "caregiver_testimonial_audio_asset": "plh_audio/testimonials/caregiver/caregiver_test_w_instruct.mp3",
       "teen_testimonial_audio_asset": "plh_audio/testimonials/teen/teen_test_w_instruct.mp3",
-      "image_asset": "plh_images/workshops/w_instruct/tools.svg",
       "title": "Positive Instructions",
       "_translations": {
-        "title": {
-          "tz_sw": true
-        },
-        "lower_case_title": {
-          "tz_sw": true
-        },
-        "description": {
-          "tz_sw": true
-        },
-        "caregiver_testimonial_script": {
-          "tz_sw": true
-        },
-        "teen_testimonial_script": {
-          "tz_sw": true
-        },
-        "in_text_title": {
-          "tz_sw": true
-        }
+        "title": {},
+        "lower_case_title": {},
+        "description": {},
+        "caregiver_testimonial_script": {},
+        "teen_testimonial_script": {},
+        "in_text_title": {}
       },
       "_translatedFields": {
         "title": {
@@ -245,29 +199,18 @@
       "id": "w_stress",
       "number": 5,
       "group": "core",
+      "sensitive_content": false,
+      "image_asset": "plh_images/workshops/w_stress/tools.svg",
       "caregiver_testimonial_audio_asset": "plh_audio/testimonials/caregiver/caregiver_test_w_stress.mp3",
       "teen_testimonial_audio_asset": "plh_audio/testimonials/teen/teen_test_w_stress.mp3",
-      "image_asset": "plh_images/workshops/w_stress/tools.svg",
       "title": "Managing Stress",
       "_translations": {
-        "title": {
-          "tz_sw": true
-        },
-        "lower_case_title": {
-          "tz_sw": true
-        },
-        "description": {
-          "tz_sw": true
-        },
-        "caregiver_testimonial_script": {
-          "tz_sw": true
-        },
-        "teen_testimonial_script": {
-          "tz_sw": true
-        },
-        "in_text_title": {
-          "tz_sw": true
-        }
+        "title": {},
+        "lower_case_title": {},
+        "description": {},
+        "caregiver_testimonial_script": {},
+        "teen_testimonial_script": {},
+        "in_text_title": {}
       },
       "_translatedFields": {
         "title": {
@@ -303,29 +246,18 @@
       "id": "w_solve",
       "number": 6,
       "group": "core",
+      "sensitive_content": false,
+      "image_asset": "plh_images/workshops/w_solve/tools.svg",
       "caregiver_testimonial_audio_asset": "plh_audio/testimonials/caregiver/caregiver_test_w_solve.mp3",
       "teen_testimonial_audio_asset": "plh_audio/testimonials/teen/teen_test_w_solve.mp3",
-      "image_asset": "plh_images/workshops/w_solve/tools.svg",
       "title": "Problem Solving",
       "_translations": {
-        "title": {
-          "tz_sw": true
-        },
-        "lower_case_title": {
-          "tz_sw": true
-        },
-        "description": {
-          "tz_sw": true
-        },
-        "caregiver_testimonial_script": {
-          "tz_sw": true
-        },
-        "teen_testimonial_script": {
-          "tz_sw": true
-        },
-        "in_text_title": {
-          "tz_sw": true
-        }
+        "title": {},
+        "lower_case_title": {},
+        "description": {},
+        "caregiver_testimonial_script": {},
+        "teen_testimonial_script": {},
+        "in_text_title": {}
       },
       "_translatedFields": {
         "title": {
@@ -361,29 +293,18 @@
       "id": "w_money",
       "number": 7,
       "group": "core",
+      "sensitive_content": false,
+      "image_asset": "plh_images/workshops/w_money/tools.svg",
       "caregiver_testimonial_audio_asset": "plh_audio/testimonials/caregiver/caregiver_test_w_money.mp3",
       "teen_testimonial_audio_asset": "plh_audio/testimonials/teen/teen_test_w_money.mp3",
-      "image_asset": "plh_images/workshops/w_money/tools.svg",
       "title": "Family Budgets",
       "_translations": {
-        "title": {
-          "tz_sw": true
-        },
-        "lower_case_title": {
-          "tz_sw": true
-        },
-        "description": {
-          "tz_sw": true
-        },
-        "caregiver_testimonial_script": {
-          "tz_sw": true
-        },
-        "teen_testimonial_script": {
-          "tz_sw": true
-        },
-        "in_text_title": {
-          "tz_sw": true
-        }
+        "title": {},
+        "lower_case_title": {},
+        "description": {},
+        "caregiver_testimonial_script": {},
+        "teen_testimonial_script": {},
+        "in_text_title": {}
       },
       "_translatedFields": {
         "title": {
@@ -419,27 +340,18 @@
       "id": "w_rules",
       "number": 8,
       "group": "core",
+      "sensitive_content": false,
+      "image_asset": "plh_images/workshops/w_rules/tools.svg",
       "caregiver_testimonial_audio_asset": "plh_audio/testimonials/caregiver/caregiver_test_w_rules.mp3",
       "teen_testimonial_audio_asset": "plh_audio/testimonials/teen/teen_test_w_rules.mp3",
-      "image_asset": "plh_images/workshops/w_rules/tools.svg",
       "title": "Rules",
       "_translations": {
-        "title": {
-          "tz_sw": true
-        },
-        "lower_case_title": {
-          "tz_sw": true
-        },
-        "description": {
-          "tz_sw": true
-        },
+        "title": {},
+        "lower_case_title": {},
+        "description": {},
         "caregiver_testimonial_script": {},
-        "teen_testimonial_script": {
-          "tz_sw": true
-        },
-        "in_text_title": {
-          "tz_sw": true
-        }
+        "teen_testimonial_script": {},
+        "in_text_title": {}
       },
       "_translatedFields": {
         "title": {
@@ -475,29 +387,18 @@
       "id": "w_consequence",
       "number": 9,
       "group": "core",
+      "sensitive_content": false,
+      "image_asset": "plh_images/workshops/w_consequence/tools.svg",
       "caregiver_testimonial_audio_asset": "plh_audio/testimonials/caregiver/caregiver_test_w_consequence.mp3",
       "teen_testimonial_audio_asset": "plh_audio/testimonials/teen/teen_test_w_consequence.mp3",
-      "image_asset": "plh_images/workshops/w_consequence/tools.svg",
       "title": "Calm Consequences",
       "_translations": {
-        "title": {
-          "tz_sw": true
-        },
-        "lower_case_title": {
-          "tz_sw": true
-        },
-        "description": {
-          "tz_sw": true
-        },
-        "caregiver_testimonial_script": {
-          "tz_sw": true
-        },
-        "teen_testimonial_script": {
-          "tz_sw": true
-        },
-        "in_text_title": {
-          "tz_sw": true
-        }
+        "title": {},
+        "lower_case_title": {},
+        "description": {},
+        "caregiver_testimonial_script": {},
+        "teen_testimonial_script": {},
+        "in_text_title": {}
       },
       "_translatedFields": {
         "title": {
@@ -533,29 +434,18 @@
       "id": "w_safe",
       "number": 10,
       "group": "core",
+      "sensitive_content": false,
+      "image_asset": "plh_images/workshops/w_safe/tools.svg",
       "caregiver_testimonial_audio_asset": "plh_audio/testimonials/caregiver/caregiver_test_w_safe.mp3",
       "teen_testimonial_audio_asset": "plh_audio/testimonials/teen/teen_test_w_safe.mp3",
-      "image_asset": "plh_images/workshops/w_safe/tools.svg",
       "title": "Teen Safety",
       "_translations": {
-        "title": {
-          "tz_sw": true
-        },
-        "lower_case_title": {
-          "tz_sw": true
-        },
-        "description": {
-          "tz_sw": true
-        },
-        "caregiver_testimonial_script": {
-          "tz_sw": true
-        },
-        "teen_testimonial_script": {
-          "tz_sw": true
-        },
-        "in_text_title": {
-          "tz_sw": true
-        }
+        "title": {},
+        "lower_case_title": {},
+        "description": {},
+        "caregiver_testimonial_script": {},
+        "teen_testimonial_script": {},
+        "in_text_title": {}
       },
       "_translatedFields": {
         "title": {
@@ -591,29 +481,18 @@
       "id": "w_crisis",
       "number": 11,
       "group": "core",
+      "sensitive_content": true,
+      "image_asset": "plh_images/workshops/w_crisis/tools.svg",
       "caregiver_testimonial_audio_asset": "plh_audio/testimonials/caregiver/caregiver_test_w_crisis.mp3",
       "teen_testimonial_audio_asset": "plh_audio/testimonials/teen/teen_test_w_crisis.mp3",
-      "image_asset": "plh_images/workshops/w_crisis/tools.svg",
       "title": "Dealing with Crisis",
       "_translations": {
-        "title": {
-          "tz_sw": true
-        },
-        "lower_case_title": {
-          "tz_sw": true
-        },
-        "description": {
-          "tz_sw": true
-        },
-        "caregiver_testimonial_script": {
-          "tz_sw": true
-        },
-        "teen_testimonial_script": {
-          "tz_sw": true
-        },
-        "in_text_title": {
-          "tz_sw": true
-        }
+        "title": {},
+        "lower_case_title": {},
+        "description": {},
+        "caregiver_testimonial_script": {},
+        "teen_testimonial_script": {},
+        "in_text_title": {}
       },
       "_translatedFields": {
         "title": {
@@ -649,21 +528,16 @@
       "id": "w_celebrate",
       "number": 12,
       "group": "core",
+      "sensitive_content": false,
       "image_asset": "plh_images/workshops/w_celebrate/tools.svg",
+      "caregiver_testimonial_audio_asset": "plh_audio/testimonials/caregiver/caregiver_test_w_celebrate.mp3",
+      "teen_testimonial_audio_asset": "plh_audio/testimonials/teen/teen_test_w_celebrate.mp3",
       "title": "Celebration and Next Steps",
       "_translations": {
-        "title": {
-          "tz_sw": true
-        },
-        "lower_case_title": {
-          "tz_sw": true
-        },
-        "description": {
-          "tz_sw": true
-        },
-        "in_text_title": {
-          "tz_sw": true
-        }
+        "title": {},
+        "lower_case_title": {},
+        "description": {},
+        "in_text_title": {}
       },
       "_translatedFields": {
         "title": {
@@ -691,27 +565,18 @@
       "id": "w_srh",
       "number": 13,
       "group": "extra",
+      "sensitive_content": true,
       "image_asset": "plh_images/workshops/w_srh/tools.svg",
+      "caregiver_testimonial_audio_asset": "plh_audio/testimonials/caregiver/caregiver_test_w_srh.mp3",
+      "teen_testimonial_audio_asset": "plh_audio/testimonials/teen/teen_test_w_srh.mp3",
       "title": "Body Changes and Intimate Relationships",
       "_translations": {
-        "title": {
-          "tz_sw": true
-        },
-        "lower_case_title": {
-          "tz_sw": true
-        },
-        "description": {
-          "tz_sw": true
-        },
-        "caregiver_testimonial_script": {
-          "tz_sw": true
-        },
-        "teen_testimonial_script": {
-          "tz_sw": true
-        },
-        "in_text_title": {
-          "tz_sw": true
-        }
+        "title": {},
+        "lower_case_title": {},
+        "description": {},
+        "caregiver_testimonial_script": {},
+        "teen_testimonial_script": {},
+        "in_text_title": {}
       },
       "_translatedFields": {
         "title": {
@@ -747,27 +612,18 @@
       "id": "w_svp",
       "number": 14,
       "group": "extra",
+      "sensitive_content": true,
       "image_asset": "plh_images/workshops/w_svp/tools.svg",
+      "caregiver_testimonial_audio_asset": "plh_audio/testimonials/caregiver/caregiver_test_w_svp.mp3",
+      "teen_testimonial_audio_asset": "plh_audio/testimonials/teen/teen_test_w_svp.mp3",
       "title": "Staying Safe",
       "_translations": {
-        "title": {
-          "tz_sw": true
-        },
-        "lower_case_title": {
-          "tz_sw": true
-        },
-        "description": {
-          "tz_sw": true
-        },
-        "caregiver_testimonial_script": {
-          "tz_sw": true
-        },
-        "teen_testimonial_script": {
-          "tz_sw": true
-        },
-        "in_text_title": {
-          "tz_sw": true
-        }
+        "title": {},
+        "lower_case_title": {},
+        "description": {},
+        "caregiver_testimonial_script": {},
+        "teen_testimonial_script": {},
+        "in_text_title": {}
       },
       "_translatedFields": {
         "title": {
@@ -803,27 +659,18 @@
       "id": "w_grief",
       "number": 15,
       "group": "extra",
+      "sensitive_content": true,
       "image_asset": "plh_images/workshops/w_grief/tools.svg",
+      "caregiver_testimonial_audio_asset": "plh_audio/testimonials/caregiver/caregiver_test_w_grief.mp3",
+      "teen_testimonial_audio_asset": "plh_audio/testimonials/teen/teen_test_w_grief.mp3",
       "title": "Coping with Grief",
       "_translations": {
-        "title": {
-          "tz_sw": true
-        },
-        "lower_case_title": {
-          "tz_sw": true
-        },
-        "description": {
-          "tz_sw": true
-        },
-        "caregiver_testimonial_script": {
-          "tz_sw": true
-        },
-        "teen_testimonial_script": {
-          "tz_sw": true
-        },
-        "in_text_title": {
-          "tz_sw": true
-        }
+        "title": {},
+        "lower_case_title": {},
+        "description": {},
+        "caregiver_testimonial_script": {},
+        "teen_testimonial_script": {},
+        "in_text_title": {}
       },
       "_translatedFields": {
         "title": {
@@ -836,7 +683,7 @@
           "eng": "Help your teen cope after losing a loved one."
         },
         "caregiver_testimonial_script": {
-          "eng": "After I lost my husband, the parenting tips that I learnt were so helpful to me: I began breathing calmly whenever I was feeling so sad or angry, and my kids really felt the difference because I was learning to keep calm.\n\nNaming our feelings and being open about how we are feeling has helped me feel closer to my child. Before, I felt like only I was going through these emotions, but now I know that my child is feeling the same things. We can talk about it and help each other. We don’t feel alone anymore."
+          "eng": "After I lost my husband, the parenting tips that I learnt were so helpful to me: I began breathing calmly whenever I was feeling so sad or angry, and my kids really felt the difference because I was learning to keep calm.\n\nNaming our feelings and being open about how we are feeling has helped me feel closer to my child. Before, I felt like I was the only one who was going through these emotions, but now I know that my child is feeling the same things. We can talk about it and help each other. We don’t feel alone anymore."
         },
         "teen_testimonial_script": {
           "eng": "When I lost my mom, everything changed. I was so sad, but it felt like my dad couldn't understand. Our relationship suffered. We did our own things and we stopped talking to each other. But then something incredible happened.\n\nMy dad learnt all these things from the app about what to do when you lose someone. He asked me how I was doing and we started to talk again. He explained that he was sad too, and he even said he was sorry for not talking to me after my mom died. We can now see that it is hard for both of us, and we can help each other. He is supporting me and we are a lot closer."
@@ -847,7 +694,7 @@
       },
       "lower_case_title": "coping with grief",
       "description": "Help your teen cope after losing a loved one.",
-      "caregiver_testimonial_script": "After I lost my husband, the parenting tips that I learnt were so helpful to me: I began breathing calmly whenever I was feeling so sad or angry, and my kids really felt the difference because I was learning to keep calm.\n\nNaming our feelings and being open about how we are feeling has helped me feel closer to my child. Before, I felt like only I was going through these emotions, but now I know that my child is feeling the same things. We can talk about it and help each other. We don’t feel alone anymore.",
+      "caregiver_testimonial_script": "After I lost my husband, the parenting tips that I learnt were so helpful to me: I began breathing calmly whenever I was feeling so sad or angry, and my kids really felt the difference because I was learning to keep calm.\n\nNaming our feelings and being open about how we are feeling has helped me feel closer to my child. Before, I felt like I was the only one who was going through these emotions, but now I know that my child is feeling the same things. We can talk about it and help each other. We don’t feel alone anymore.",
       "teen_testimonial_script": "When I lost my mom, everything changed. I was so sad, but it felt like my dad couldn't understand. Our relationship suffered. We did our own things and we stopped talking to each other. But then something incredible happened.\n\nMy dad learnt all these things from the app about what to do when you lose someone. He asked me how I was doing and we started to talk again. He explained that he was sad too, and he even said he was sorry for not talking to me after my mom died. We can now see that it is hard for both of us, and we can help each other. He is supporting me and we are a lot closer.",
       "in_text_title": "**Coping with Grief** @global.workshop",
       "something_fun_data": "@data.something_fun.whats_new",
@@ -859,27 +706,18 @@
       "id": "w_learn",
       "number": 16,
       "group": "play",
+      "sensitive_content": false,
       "image_asset": "plh_images/workshops/w_learn/tools.svg",
+      "caregiver_testimonial_audio_asset": "plh_audio/testimonials/caregiver/caregiver_test_w_learn.mp3",
+      "teen_testimonial_audio_asset": "plh_audio/testimonials/teen/teen_test_w_learn.mp3",
       "title": "Helping Your Teen Learn",
       "_translations": {
-        "title": {
-          "tz_sw": true
-        },
-        "lower_case_title": {
-          "tz_sw": true
-        },
-        "description": {
-          "tz_sw": true
-        },
-        "caregiver_testimonial_script": {
-          "tz_sw": true
-        },
-        "teen_testimonial_script": {
-          "tz_sw": true
-        },
-        "in_text_title": {
-          "tz_sw": true
-        }
+        "title": {},
+        "lower_case_title": {},
+        "description": {},
+        "caregiver_testimonial_script": {},
+        "teen_testimonial_script": {},
+        "in_text_title": {}
       },
       "_translatedFields": {
         "title": {

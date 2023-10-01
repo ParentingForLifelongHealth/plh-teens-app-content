@@ -355,9 +355,7 @@
           "name": "activity_title",
           "value": "Relax Together",
           "_translations": {
-            "value": {
-              "tz_sw": true
-            }
+            "value": {}
           },
           "condition": "@field.do_this_workshop_together",
           "type": "set_variable",
@@ -382,9 +380,7 @@
           "name": "activity_title",
           "value": "Relax",
           "_translations": {
-            "value": {
-              "tz_sw": true
-            }
+            "value": {}
           },
           "condition": "!@field.do_this_workshop_together",
           "type": "set_variable",
@@ -409,9 +405,7 @@
           "name": "intro_text",
           "value": "Let’s do a short relaxation activity together. It will only take a moment and you will feel more relaxed.",
           "_translations": {
-            "value": {
-              "tz_sw": true
-            }
+            "value": {}
           },
           "type": "set_variable",
           "_nested_name": "workshop_activity.intro_text"
@@ -484,9 +478,7 @@
           "name": "outro_toggle_bar_text",
           "value": "Add this activity to @global.my_relaxes",
           "_translations": {
-            "value": {
-              "tz_sw": true
-            }
+            "value": {}
           },
           "type": "set_variable",
           "_nested_name": "workshop_activity.outro_toggle_bar_text",
@@ -591,9 +583,7 @@
               "name": "audio_title",
               "value": "Listen and relax",
               "_translations": {
-                "value": {
-                  "tz_sw": true
-                }
+                "value": {}
               },
               "type": "set_variable",
               "_nested_name": "workshop_activity.content_box.audio_title"
@@ -626,9 +616,7 @@
               "name": "button_1",
               "value": "Read and relax",
               "_translations": {
-                "value": {
-                  "tz_sw": true
-                }
+                "value": {}
               },
               "action_list": [
                 {
@@ -691,9 +679,7 @@
           "name": "outro_text",
           "value": "You are a star!\n\nEvery day, recognise something you have done well. Reward yourself with something that makes you happy. And take a deep breath to relax.",
           "_translations": {
-            "value": {
-              "tz_sw": true
-            }
+            "value": {}
           },
           "type": "set_variable",
           "_nested_name": "workshop_activity.outro_text"

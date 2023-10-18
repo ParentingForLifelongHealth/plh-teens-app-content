@@ -8,8 +8,8 @@ import { SKINS } from "./skins";
  */
 
 config.google_drive = {
-  sheets_folder_id: "1n221Zv9LYuwxmjhiboq8vhQg67_K9L5f",
-  assets_folder_id: "1dp9QAQ84m8pm0IBQTSPXe1ramyynKPNn",
+  sheets_folder_ids: ["1n221Zv9LYuwxmjhiboq8vhQg67_K9L5f"],
+  assets_folder_ids: ["1dp9QAQ84m8pm0IBQTSPXe1ramyynKPNn"],
 };
 config.android = {
   splash_asset_path: "packages/app-data/assets/global/android/splash.png",

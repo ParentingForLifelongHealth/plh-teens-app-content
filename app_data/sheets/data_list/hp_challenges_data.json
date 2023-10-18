@@ -298,13 +298,13 @@
           "eng": "My teen got very angry with me after I gave the consequence."
         },
         "reply_challenge_2": {
-          "eng": "When your teen gets angry, you might need to walk away until you are both calm.\n\nCheck to make sure your consequence is fair and reasonable. Listen to your teen’s explanation, and react calmly as you agreed if they used the “@global.safety_word” or broke a rule in order to stay safe."
+          "eng": "When your teen gets angry, you might need to walk away until you are both calm.\n\nCheck to make sure your consequence is fair and reasonable. Listen to your teen’s explanation and react calmly as you agreed if they used the “@global.safety_word” or broke a rule in order to stay safe."
         },
         "text_challenge_3": {
           "eng": "I introduced the consequence without first discussing it with my teen."
         },
         "reply_challenge_3": {
-          "eng": "Can you make a consequence for if this happens again? When we establish a consequence together with our teens, the consequence will be more realistic, and our teens will be more willing and able to follow the rule."
+          "eng": "Can you make a consequence for if this happens again? When we establish a consequence together with our teens, the consequence will be more realistic and our teens will be more willing and able to follow the rule."
         },
         "text_challenge_4": {
           "eng": "I forgot to follow through with the consequence."
@@ -322,7 +322,7 @@
           "eng": "We only created a negative consequence, not a positive consequence."
         },
         "reply_challenge_6": {
-          "eng": "It can be difficult to think of positive consequences sometimes. Positive consequences will encourage your teen to take more responsibility, and you will see the difference!"
+          "eng": "It can be difficult to think of positive consequences sometimes. Positive consequences will encourage your teen to take more responsibility and you will see the difference!"
         },
         "text_challenge_7": {
           "eng": "My teen suggested being hit as a negative consequence."
@@ -337,15 +337,15 @@
       "text_challenge_1": "I got very angry when my teen broke the rule.",
       "reply_challenge_1": "When we take a pause before responding, it helps us to calm down and respond better. \n\nNext time your teen makes you angry, try to take a pause first. Even a few deep breaths can make a big difference!",
       "text_challenge_2": "My teen got very angry with me after I gave the consequence.",
-      "reply_challenge_2": "When your teen gets angry, you might need to walk away until you are both calm.\n\nCheck to make sure your consequence is fair and reasonable. Listen to your teen’s explanation, and react calmly as you agreed if they used the “@global.safety_word” or broke a rule in order to stay safe.",
+      "reply_challenge_2": "When your teen gets angry, you might need to walk away until you are both calm.\n\nCheck to make sure your consequence is fair and reasonable. Listen to your teen’s explanation and react calmly as you agreed if they used the “@global.safety_word” or broke a rule in order to stay safe.",
       "text_challenge_3": "I introduced the consequence without first discussing it with my teen.",
-      "reply_challenge_3": "Can you make a consequence for if this happens again? When we establish a consequence together with our teens, the consequence will be more realistic, and our teens will be more willing and able to follow the rule.",
+      "reply_challenge_3": "Can you make a consequence for if this happens again? When we establish a consequence together with our teens, the consequence will be more realistic and our teens will be more willing and able to follow the rule.",
       "text_challenge_4": "I forgot to follow through with the consequence.",
       "reply_challenge_4": "We all make mistakes! The more consistent we are with our consequences, the more likely our children will choose to behave positively in the future.",
       "text_challenge_5": "Even with the consequence, my teen still does not follow the rule.",
       "reply_challenge_5": "If your teen keeps breaking rules, you might need to spend more positive time with them. \n\nTry to keep going with your other goals  – like self-care, one-on-one time, and praise. All these skills will help your teen feel more loved and secure… and you less stressed!",
       "text_challenge_6": "We only created a negative consequence, not a positive consequence.",
-      "reply_challenge_6": "It can be difficult to think of positive consequences sometimes. Positive consequences will encourage your teen to take more responsibility, and you will see the difference!",
+      "reply_challenge_6": "It can be difficult to think of positive consequences sometimes. Positive consequences will encourage your teen to take more responsibility and you will see the difference!",
       "text_challenge_7": "My teen suggested being hit as a negative consequence.",
       "reply_challenge_7": "Teens can be used to seeing hitting as the only possible consequence for breaking rules. \n\nBrainstorm some calm consequences with them that could help them understand that they have done something wrong. These will be more effective and will set positive examples!",
       "top_text": "Challenges other parents experience:"
@@ -464,13 +464,13 @@
           "eng": "My teen identified the house of someone I trust as unsafe. I was shocked and did not know what to do."
         },
         "reply_challenge_2": {
-          "eng": "It is shocking to learn that people who are close to us and who we trust may be a danger to our teens. Remember to take a pause when you are upset, and try to listen calmly to your teen. Find someone you can talk to about this, perhaps a friend or support service, so you can get the support you need."
+          "eng": "It is shocking to learn that people who are close to us and who we trust may be a danger to our teens. Remember to take a pause when you are upset and try to listen calmly to your teen. Find someone you can talk to about this, perhaps a friend or support service, so you can get the support you need."
         },
         "text_challenge_3": {
           "eng": "My teen insisted that the bar (or another place I do not feel is safe) is safe for them to visit. I do not know how to convince my teen."
         },
         "reply_challenge_3": {
-          "eng": "This can be very frustrating. To find a solution, your teen needs to feel heard – so listen calmly to your teen's reasons, and only then share your own thoughts. Then, think together about a rule that allows them to have fun but stay safe."
+          "eng": "This can be very frustrating. To find a solution, your teen needs to feel heard - so listen calmly to your teen's reasons and only then share your own thoughts. Then, think together about a rule that allows them to have fun but stay safe."
         },
         "text_challenge_4": {
           "eng": "As an adult, I feel responsible to protect – but when I told my teen what is safe and what is not, my teen got angry."
@@ -497,9 +497,9 @@
       "text_challenge_1": "My teen and I disagreed on which areas and online activities were unsafe.",
       "reply_challenge_1": "Well done for trying the activity! When we listen to our teenagers, even if we disagree, we learn to understand their thinking. Try and find time to do the activity again – try to really listen and show you understand them before sharing your thoughts.",
       "text_challenge_2": "My teen identified the house of someone I trust as unsafe. I was shocked and did not know what to do.",
-      "reply_challenge_2": "It is shocking to learn that people who are close to us and who we trust may be a danger to our teens. Remember to take a pause when you are upset, and try to listen calmly to your teen. Find someone you can talk to about this, perhaps a friend or support service, so you can get the support you need.",
+      "reply_challenge_2": "It is shocking to learn that people who are close to us and who we trust may be a danger to our teens. Remember to take a pause when you are upset and try to listen calmly to your teen. Find someone you can talk to about this, perhaps a friend or support service, so you can get the support you need.",
       "text_challenge_3": "My teen insisted that the bar (or another place I do not feel is safe) is safe for them to visit. I do not know how to convince my teen.",
-      "reply_challenge_3": "This can be very frustrating. To find a solution, your teen needs to feel heard – so listen calmly to your teen's reasons, and only then share your own thoughts. Then, think together about a rule that allows them to have fun but stay safe.",
+      "reply_challenge_3": "This can be very frustrating. To find a solution, your teen needs to feel heard - so listen calmly to your teen's reasons and only then share your own thoughts. Then, think together about a rule that allows them to have fun but stay safe.",
       "text_challenge_4": "As an adult, I feel responsible to protect – but when I told my teen what is safe and what is not, my teen got angry.",
       "reply_challenge_4": "Our teenagers may know things about our communities and technology that we are not aware of. When we actively involve our teens in the mapping activity and really listen to them, they feel heard and valued, and it can be easier to come up with a plan that everyone agrees on.",
       "text_challenge_5": "It was hard to identify support resources available in my community, because I do not know my community so well / there are few services available.",
@@ -534,7 +534,7 @@
           "eng": "My teen told me that something serious happened to them and I did not know how to handle it."
         },
         "reply_challenge_1": {
-          "eng": "Praise your teen for telling you; that is not easy to do! Remember, you can use all the skills you picked from your toolbox: Take a pause, use the four steps of problem solving, and reach out to get the support you and your teen need!"
+          "eng": "Praise your teen for telling you; that is not easy to do! Remember, you can use all the skills you picked from your toolbox: Take a pause, use the four steps of problem solving and reach out to get the support you and your teen need!"
         },
         "button_text_1_a": {
           "eng": "@data.workshop.w_solve.tools"
@@ -559,7 +559,7 @@
         }
       },
       "text_challenge_1": "My teen told me that something serious happened to them and I did not know how to handle it.",
-      "reply_challenge_1": "Praise your teen for telling you; that is not easy to do! Remember, you can use all the skills you picked from your toolbox: Take a pause, use the four steps of problem solving, and reach out to get the support you and your teen need!",
+      "reply_challenge_1": "Praise your teen for telling you; that is not easy to do! Remember, you can use all the skills you picked from your toolbox: Take a pause, use the four steps of problem solving and reach out to get the support you and your teen need!",
       "button_text_1_a": "@data.workshop.w_solve.tools",
       "button_text_1_b": "Get support",
       "text_challenge_2": "The conversation made me very uncomfortable because I was reminded of a negative experience I had.",

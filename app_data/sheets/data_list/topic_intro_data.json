@@ -266,7 +266,7 @@
           "eng": "Our actions have consequences: Some consequences happen naturally (“if you break something, you can’t use it anymore”). Other consequences we set as a family to motivate us to follow the rules (“if you come home late, you can’t go out with friends tomorrow”).\n\nHOW you set and use consequences together matters.\n\nGetting consequences right helps teens behave better and makes family life calmer."
         },
         "script": {
-          "eng": "Greetings, everyone. \n\nToday's topic is calm consequences.\n\nIt is important that when we introduce consequences to our teenagers we involve them, but also important that we are calm when we introduce consequences.\n\nThat will assist in us to agree on introducing calm consequences to our teenagers and our teenagers will easily remember them when they are involved and that will make them responsible."
+          "eng": "Greetings, everyone. \n\nToday's topic is calm consequences.\n\nIt is important that when we introduce consequences to our teenagers we involve them, but also important that we are calm when we introduce consequences.\n\nThat will assist us to agree on introducing calm consequences to our teenagers and our teenagers will easily remember them when they are involved and that will make them responsible."
         },
         "title": {
           "eng": "Why @data.workshop.w_consequence.lower_case_title?"
@@ -275,7 +275,7 @@
           "eng": "@global.tell_me_more_button"
         }
       },
-      "script": "Greetings, everyone. \n\nToday's topic is calm consequences.\n\nIt is important that when we introduce consequences to our teenagers we involve them, but also important that we are calm when we introduce consequences.\n\nThat will assist in us to agree on introducing calm consequences to our teenagers and our teenagers will easily remember them when they are involved and that will make them responsible.",
+      "script": "Greetings, everyone. \n\nToday's topic is calm consequences.\n\nIt is important that when we introduce consequences to our teenagers we involve them, but also important that we are calm when we introduce consequences.\n\nThat will assist us to agree on introducing calm consequences to our teenagers and our teenagers will easily remember them when they are involved and that will make them responsible.",
       "title": "Why @data.workshop.w_consequence.lower_case_title?",
       "intro_nav_button_completed": "@global.tell_me_more_button"
     },
@@ -326,7 +326,7 @@
           "eng": "All families experience crises. When we prepare together and know where to get help BEFORE something bad happens, we can overcome any crisis."
         },
         "script": {
-          "eng": "Greetings, everyone.\n\nToday's topic is dealing with crises.\n\nCrises may occur anywhere. Crises may occur anytime. Therefore, it is important as a family to have plans in place should any family member find themselves in a crisis situation. \n\nIt is important to have plans so that every family member may feel protected. \n\nWhen we are dealing with crises, remember to take a pause, breathe, and keep yourself calm. That will help you to deal with crises better."
+          "eng": "Greetings, everyone.\n\nToday's topic is dealing with crises.\n\nCrises may occur anywhere. Crises may occur anytime. Therefore, it is important as a family to have plans in place should any family member find themselves in a crisis situation. \n\nIt is important to have plans so that every family member may feel protected. \n\nWhen we are dealing with crises, remember to take a pause, breathe and keep yourself calm. That will help you to deal with crises better."
         },
         "title": {
           "eng": "Why @data.workshop.w_crisis.lower_case_title?"
@@ -335,7 +335,7 @@
           "eng": "@global.tell_me_more_button"
         }
       },
-      "script": "Greetings, everyone.\n\nToday's topic is dealing with crises.\n\nCrises may occur anywhere. Crises may occur anytime. Therefore, it is important as a family to have plans in place should any family member find themselves in a crisis situation. \n\nIt is important to have plans so that every family member may feel protected. \n\nWhen we are dealing with crises, remember to take a pause, breathe, and keep yourself calm. That will help you to deal with crises better.",
+      "script": "Greetings, everyone.\n\nToday's topic is dealing with crises.\n\nCrises may occur anywhere. Crises may occur anytime. Therefore, it is important as a family to have plans in place should any family member find themselves in a crisis situation. \n\nIt is important to have plans so that every family member may feel protected. \n\nWhen we are dealing with crises, remember to take a pause, breathe and keep yourself calm. That will help you to deal with crises better.",
       "title": "Why @data.workshop.w_crisis.lower_case_title?",
       "intro_nav_button_completed": "@global.tell_me_more_button"
     },
@@ -356,7 +356,7 @@
           "eng": "Why celebrate?"
         },
         "intro_text": {
-          "eng": "CONGRATULATIONS! You have done it! You have built 11 important parenting skills. \n\nThis is a huge achievement. It shows such care for your family. \n\nLet’s celebrate you, and plan your future @global.parent_app support."
+          "eng": "CONGRATULATIONS! You have done it! You have built 11 important parenting skills. \n\nThis is a huge achievement. It shows such care for your family. \n\nLet’s celebrate you and plan your future @global.parent_app support."
         },
         "script": {
           "eng": "Greetings everyone.\n\nToday’s topic is celebration and next steps.\n\nIt has been amazing, it has been wonderful having you on this journey. Today we are celebrating our journey together. \n\nToday we are celebrating all the learnings that we have learnt throughout."
@@ -365,7 +365,7 @@
           "eng": "@global.tell_me_more_button"
         }
       },
-      "intro_text": "CONGRATULATIONS! You have done it! You have built 11 important parenting skills. \n\nThis is a huge achievement. It shows such care for your family. \n\nLet’s celebrate you, and plan your future @global.parent_app support.",
+      "intro_text": "CONGRATULATIONS! You have done it! You have built 11 important parenting skills. \n\nThis is a huge achievement. It shows such care for your family. \n\nLet’s celebrate you and plan your future @global.parent_app support.",
       "script": "Greetings everyone.\n\nToday’s topic is celebration and next steps.\n\nIt has been amazing, it has been wonderful having you on this journey. Today we are celebrating our journey together. \n\nToday we are celebrating all the learnings that we have learnt throughout.",
       "intro_nav_button_completed": "@global.tell_me_more_button"
     },

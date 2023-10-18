@@ -620,7 +620,7 @@
           "eng": "BREATHE"
         },
         "tool_1_text": {
-          "eng": "Stay calm. Ask yourself \"What does my teen need right now?\""
+          "eng": "Stay calm. Ask yourself, \"What does my teen need right now?\""
         },
         "tool_2_title": {
           "eng": "LISTEN"
@@ -632,7 +632,7 @@
           "eng": "THINK"
         },
         "tool_3_text": {
-          "eng": "Talk with your teen. What might help the situation? You might need to make immediate plans now, and then long-term plans later."
+          "eng": "Talk with your teen. What might help the situation? You might need to make immediate plans now and then long-term plans later."
         },
         "tool_4_title": {
           "eng": ""
@@ -643,11 +643,11 @@
       },
       "top_text": "Crisis can make us feel angry or helpless. But this is when our teens really need us to breathe, listen and think.",
       "tool_1_title": "BREATHE",
-      "tool_1_text": "Stay calm. Ask yourself \"What does my teen need right now?\"",
+      "tool_1_text": "Stay calm. Ask yourself, \"What does my teen need right now?\"",
       "tool_2_title": "LISTEN",
       "tool_2_text": "Tell them you are there for them and love them.",
       "tool_3_title": "THINK",
-      "tool_3_text": "Talk with your teen. What might help the situation? You might need to make immediate plans now, and then long-term plans later.",
+      "tool_3_text": "Talk with your teen. What might help the situation? You might need to make immediate plans now and then long-term plans later.",
       "tool_4_title": "",
       "bottom_text": "You can be proud of yourself for exploring ways to get help!"
     },

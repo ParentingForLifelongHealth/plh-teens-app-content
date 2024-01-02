@@ -27,6 +27,7 @@ config.git = {
   content_tag_latest: "1.1.3",
 };
 
+config.api.db_name = "plh_teens"
 config.app_data.output_path = "./app_data";
 
 config.app_data.assets_filter_function = (fileEntry) => !fileEntry.relativePath.includes("uncompressed")

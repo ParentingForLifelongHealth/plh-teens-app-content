@@ -208,7 +208,14 @@
           "name": "text_q_2",
           "value": "Can you think of a name for your group?",
           "_translations": {
-            "value": {}
+            "value": {
+              "tz_sw": true,
+              "za_af": true,
+              "za_st": true,
+              "za_tn": true,
+              "za_xh": true,
+              "za_zu": true
+            }
           },
           "parameter_list": {
             "style": "emphasised"
@@ -393,7 +400,14 @@
       "name": "monday",
       "value": "Monday",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        }
       },
       "type": "set_variable",
       "_nested_name": "monday"
@@ -402,7 +416,14 @@
       "name": "tuesday",
       "value": "Tuesday",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        }
       },
       "type": "set_variable",
       "_nested_name": "tuesday"
@@ -411,7 +432,14 @@
       "name": "wednesday",
       "value": "Wednesday",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        }
       },
       "type": "set_variable",
       "_nested_name": "wednesday"
@@ -420,7 +448,14 @@
       "name": "thursday",
       "value": "Thursday",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        }
       },
       "type": "set_variable",
       "_nested_name": "thursday"
@@ -429,7 +464,14 @@
       "name": "friday",
       "value": "Friday",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        }
       },
       "type": "set_variable",
       "_nested_name": "friday"
@@ -438,7 +480,14 @@
       "name": "saturday",
       "value": "Saturday",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        }
       },
       "type": "set_variable",
       "_nested_name": "saturday"
@@ -447,7 +496,14 @@
       "name": "sunday",
       "value": "Sunday",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        }
       },
       "type": "set_variable",
       "_nested_name": "sunday"
@@ -734,7 +790,9 @@
           "name": "text_group",
           "value": "Great! We will unlock a new @global.workshop for your group every week. This allows all of you to try what you learned with your families before building the next skill.",
           "_translations": {
-            "value": {}
+            "value": {
+              "tz_sw": true
+            }
           },
           "condition": "@local.radio_group==\"together\"",
           "_nested_name": "combo_box_replies.text_group",
@@ -770,7 +828,9 @@
           "name": "text_individual",
           "value": "Great! We will unlock a new @global.workshop for you every week. This allows you to try what you learned with your family before building the next skill.",
           "_translations": {
-            "value": {}
+            "value": {
+              "tz_sw": true
+            }
           },
           "condition": "@local.radio_group==\"individual\"",
           "_nested_name": "combo_box_replies.text_individual",
@@ -824,7 +884,14 @@
       "name": "text_change",
       "value": "You can always change these settings in your @global.weekly_workshop_options.",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        }
       },
       "_nested_name": "text_change",
       "_dynamicFields": {

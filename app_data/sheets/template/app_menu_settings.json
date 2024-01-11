@@ -125,7 +125,14 @@
       "name": "button_3",
       "value": "Reset App",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        }
       },
       "action_list": [
         {
@@ -161,7 +168,14 @@
       "name": "button_4",
       "value": "Unlock Workshops",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        }
       },
       "action_list": [
         {
@@ -206,7 +220,14 @@
       "name": "button_5",
       "value": "Demo Presentation",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        }
       },
       "action_list": [
         {
@@ -286,7 +307,14 @@
       "name": "button_6",
       "value": "Organisation Registration",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        }
       },
       "action_list": [
         {
@@ -307,7 +335,14 @@
       "name": "button_8",
       "value": "Developer Mode",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        }
       },
       "action_list": [
         {
@@ -343,7 +378,14 @@
       "name": "button_9",
       "value": "Developer Mode",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        }
       },
       "action_list": [
         {
@@ -379,7 +421,9 @@
       "name": "button_10",
       "value": "Select Skin",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       },
       "action_list": [
         {

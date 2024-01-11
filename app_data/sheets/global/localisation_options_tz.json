@@ -3,7 +3,7 @@
   "flow_name": "localisation_options_tz",
   "status": "released",
   "override_target": "localisation_options",
-  "override_condition": "@fields._deployment_name == \"plh_tz\"",
+  "override_condition": "@fields._deployment_name == \"plh_teens_tz\"",
   "rows": [
     {
       "type": "declare_global_constant",
@@ -19,7 +19,9 @@
       "name": "whatsapp",
       "value": "WhatsApp",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       },
       "exclude_from_translation": true
     },
@@ -73,7 +75,14 @@
       "name": "covid",
       "value": "COVID",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        }
       }
     },
     {

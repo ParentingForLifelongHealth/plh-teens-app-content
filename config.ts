@@ -17,14 +17,10 @@ config.android = {
   icon_asset_foreground_path: "packages/app-data/assets/global/android/icon-foreground.png",
   icon_asset_background_path: "packages/app-data/assets/global/android/icon-background.png",
 };
-config.translations = {
-  translated_strings_path: "packages/app-data/translations_source/from_translators",
-  source_strings_path: "packages/app-data/translations_source/to_translate",
-};
 
 config.git = {
   content_repo: "https://github.com/IDEMSInternational/plh-teens-app-content.git",
-  content_tag_latest: "1.1.3",
+  content_tag_latest: "1.1.4",
 };
 
 config.api.db_name = "plh_teens"

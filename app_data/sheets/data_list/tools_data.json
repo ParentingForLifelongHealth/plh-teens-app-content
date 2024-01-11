@@ -11,18 +11,81 @@
       "tool_3_button_go_to_template": "w_self_care_reward",
       "title": "How to do self-care",
       "_translations": {
-        "title": {},
-        "tool_1_title": {},
-        "tool_1_text": {},
-        "tool_1_button_text": {},
-        "tool_2_title": {},
+        "title": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        },
+        "tool_1_title": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        },
+        "tool_1_text": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        },
+        "tool_1_button_text": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        },
+        "tool_2_title": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        },
         "tool_2_text": {},
-        "tool_2_button_text": {},
-        "tool_3_title": {},
+        "tool_2_button_text": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        },
+        "tool_3_title": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        },
         "tool_3_text": {},
-        "tool_3_button_text": {},
+        "tool_3_button_text": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        },
         "tool_4_title": {},
-        "bottom_text": {}
+        "bottom_text": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -78,7 +141,14 @@
       "id": "w_1on1",
       "title": "How to spend one-on-one time",
       "_translations": {
-        "title": {},
+        "title": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        },
         "tool_1_title": {},
         "tool_1_text": {},
         "tool_2_title": {},
@@ -125,15 +195,64 @@
       "id": "w_praise",
       "title": "How to praise",
       "_translations": {
-        "title": {},
-        "tool_1_title": {},
+        "title": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        },
+        "tool_1_title": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        },
         "tool_1_text": {},
-        "tool_2_title": {},
-        "tool_2_text": {},
-        "tool_3_title": {},
-        "tool_3_text": {},
+        "tool_2_title": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        },
+        "tool_2_text": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        },
+        "tool_3_title": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        },
+        "tool_3_text": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        },
         "tool_4_title": {},
-        "bottom_text": {}
+        "bottom_text": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -143,7 +262,7 @@
           "eng": "SEE IT"
         },
         "tool_1_text": {
-          "eng": "Look for anything your teen does that is helpful or good, and praise them for it. They may not show it, but you will see them doing that good thing again. It will also reassure them that you notice and care."
+          "eng": "Look for anything your teen does that is helpful or good and praise them for it. They may not show it, but you will see them doing that good thing again. It will also reassure them that you notice and care."
         },
         "tool_2_title": {
           "eng": "SAY IT"
@@ -165,7 +284,7 @@
         }
       },
       "tool_1_title": "SEE IT",
-      "tool_1_text": "Look for anything your teen does that is helpful or good, and praise them for it. They may not show it, but you will see them doing that good thing again. It will also reassure them that you notice and care.",
+      "tool_1_text": "Look for anything your teen does that is helpful or good and praise them for it. They may not show it, but you will see them doing that good thing again. It will also reassure them that you notice and care.",
       "tool_2_title": "SAY IT",
       "tool_2_text": "Be enthusiastic – really mean it when you say it!",
       "tool_3_title": "REPEAT IT",
@@ -177,13 +296,48 @@
       "id": "w_instruct",
       "title": "How to give positive instructions",
       "_translations": {
-        "title": {},
-        "tool_1_title": {},
-        "tool_1_text": {},
-        "tool_2_title": {},
+        "title": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        },
+        "tool_1_title": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        },
+        "tool_1_text": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        },
+        "tool_2_title": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        },
         "tool_2_text": {},
         "tool_3_title": {},
-        "tool_3_text": {},
+        "tool_3_text": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        },
         "tool_4_title": {}
       },
       "_translatedFields": {
@@ -200,7 +354,7 @@
           "eng": "GET POSITIVE"
         },
         "tool_2_text": {
-          "eng": "Smile, look them in the eye, and use positive words. Praise them as soon as they start to do what you ask!"
+          "eng": "Smile, look them in the eye and use positive words. Praise them as soon as they start to do what you ask!"
         },
         "tool_3_title": {
           "eng": "GET CLEAR"
@@ -215,7 +369,7 @@
       "tool_1_title": "GET REAL",
       "tool_1_text": "Can your teen actually do what you are about to ask? It may be impossible for them to read quietly all day, but half an hour when you really need it is realistic.",
       "tool_2_title": "GET POSITIVE",
-      "tool_2_text": "Smile, look them in the eye, and use positive words. Praise them as soon as they start to do what you ask!",
+      "tool_2_text": "Smile, look them in the eye and use positive words. Praise them as soon as they start to do what you ask!",
       "tool_3_title": "GET CLEAR",
       "tool_3_text": "Often we know what we want in our head, but we don’t say it clearly enough. Say exactly what you want your teen to do. Try ‘please come home by 7pm’ instead of ‘come home in time’.",
       "tool_4_title": ""
@@ -224,16 +378,44 @@
       "id": "w_stress",
       "title": "How to manage stress",
       "_translations": {
-        "title": {},
-        "tool_1_title": {},
+        "title": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        },
+        "tool_1_title": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        },
         "tool_1_text": {},
-        "tool_2_title": {},
+        "tool_2_title": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        },
         "tool_2_text": {},
         "tool_3_title": {},
         "tool_3_text": {},
         "tool_4_title": {},
         "tool_4_text": {},
-        "bottom_text": {}
+        "bottom_text": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -285,16 +467,86 @@
       "tool_4_image_asset": "plh_images/workshops/w_solve/tools/tool_4.svg",
       "title": "How to solve problems",
       "_translations": {
-        "title": {},
-        "top_text": {},
-        "tool_1_title": {},
-        "tool_1_text": {},
-        "tool_2_title": {},
-        "tool_2_text": {},
-        "tool_3_title": {},
-        "tool_3_text": {},
-        "tool_4_title": {},
-        "tool_4_text": {}
+        "title": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        },
+        "top_text": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        },
+        "tool_1_title": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        },
+        "tool_1_text": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        },
+        "tool_2_title": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        },
+        "tool_2_text": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        },
+        "tool_3_title": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        },
+        "tool_3_text": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        },
+        "tool_4_title": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        },
+        "tool_4_text": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -352,9 +604,23 @@
       "tool_4_button_go_to_template": "w_money_learn_5_temp",
       "title": "How to budget & save",
       "_translations": {
-        "title": {},
+        "title": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        },
         "tool_1_title": {},
-        "tool_1_text": {},
+        "tool_1_text": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        },
         "tool_1_button_text": {},
         "tool_2_title": {},
         "tool_2_text": {},
@@ -424,28 +690,59 @@
       "id": "w_rules",
       "title": "How to create rules",
       "_translations": {
-        "title": {},
-        "top_text": {},
-        "tool_1_title": {},
+        "title": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        },
+        "tool_1_title": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        },
         "tool_1_text": {},
-        "tool_2_title": {},
+        "tool_2_title": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        },
         "tool_2_text": {},
-        "tool_3_title": {},
-        "tool_3_text": {},
+        "tool_3_title": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        },
+        "tool_3_text": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        },
         "tool_4_title": {}
       },
       "_translatedFields": {
         "title": {
           "eng": "How to create rules"
         },
-        "top_text": {
-          "eng": "Household rules help keep our teenagers safe, and understand what is expected from them. When you involve a teenager in making rules they are more likely to follow them."
-        },
         "tool_1_title": {
           "eng": "TEAM RULES"
         },
         "tool_1_text": {
-          "eng": "Household rules help keep our teenagers safe, and understand what is expected from them. When you involve a teenager in making rules they are more likely to follow them."
+          "eng": "Household rules help to keep our teenagers safe and to understand what is expected from them. When you involve a teenager in making rules they are more likely to follow them."
         },
         "tool_2_title": {
           "eng": "REAL RULES"
@@ -463,9 +760,8 @@
           "eng": ""
         }
       },
-      "top_text": "Household rules help keep our teenagers safe, and understand what is expected from them. When you involve a teenager in making rules they are more likely to follow them.",
       "tool_1_title": "TEAM RULES",
-      "tool_1_text": "Household rules help keep our teenagers safe, and understand what is expected from them. When you involve a teenager in making rules they are more likely to follow them.",
+      "tool_1_text": "Household rules help to keep our teenagers safe and to understand what is expected from them. When you involve a teenager in making rules they are more likely to follow them.",
       "tool_2_title": "REAL RULES",
       "tool_2_text": "Plan rules WITH your teenager. Start with one new rule first – you can add another one later. Discuss the reasons for the rule and listen to their views.",
       "tool_3_title": "PRAISE RULES!",
@@ -476,13 +772,55 @@
       "id": "w_consequence",
       "title": "How to give calm consequences",
       "_translations": {
-        "title": {},
-        "top_text": {},
-        "tool_1_title": {},
+        "title": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        },
+        "top_text": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        },
+        "tool_1_title": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        },
         "tool_1_text": {},
-        "tool_2_title": {},
-        "tool_2_text": {},
-        "tool_3_title": {},
+        "tool_2_title": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        },
+        "tool_2_text": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        },
+        "tool_3_title": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        },
         "tool_3_text": {},
         "tool_4_title": {}
       },
@@ -531,18 +869,64 @@
       "tool_3_button_go_to_template": "w_stress_read_3",
       "title": "How to keep your teen safe",
       "_translations": {
-        "title": {},
-        "tool_1_title": {},
+        "title": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        },
+        "tool_1_title": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        },
         "tool_1_text": {},
-        "tool_1_button_text": {},
-        "tool_2_title": {},
+        "tool_1_button_text": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        },
+        "tool_2_title": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        },
         "tool_2_text": {},
-        "tool_2_button_text": {},
+        "tool_2_button_text": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        },
         "tool_3_title": {},
-        "tool_3_text": {},
-        "tool_3_button_text": {},
+        "tool_3_text": {
+          "tz_sw": true
+        },
+        "tool_3_button_text": {
+          "tz_sw": true
+        },
         "tool_4_title": {},
-        "bottom_text": {}
+        "bottom_text": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -598,16 +982,65 @@
       "id": "w_crisis",
       "title": "How to deal with crisis",
       "_translations": {
-        "title": {},
-        "top_text": {},
-        "tool_1_title": {},
+        "title": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        },
+        "top_text": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        },
+        "tool_1_title": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        },
         "tool_1_text": {},
-        "tool_2_title": {},
-        "tool_2_text": {},
-        "tool_3_title": {},
+        "tool_2_title": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        },
+        "tool_2_text": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        },
+        "tool_3_title": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        },
         "tool_3_text": {},
         "tool_4_title": {},
-        "bottom_text": {}
+        "bottom_text": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -659,15 +1092,64 @@
       "tool_4_image_asset": "plh_images/workshops/w_celebrate/read/slide_4.svg",
       "title": "How to support each other",
       "_translations": {
-        "title": {},
-        "tool_1_title": {},
-        "tool_1_text": {},
-        "tool_2_title": {},
+        "title": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        },
+        "tool_1_title": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        },
+        "tool_1_text": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        },
+        "tool_2_title": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        },
         "tool_2_text": {},
-        "tool_3_title": {},
+        "tool_3_title": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        },
         "tool_3_text": {},
-        "tool_4_title": {},
-        "tool_4_text": {}
+        "tool_4_title": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        },
+        "tool_4_text": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -768,12 +1250,33 @@
       "_translations": {
         "title": {},
         "top_text": {},
-        "tool_1_title": {},
+        "tool_1_title": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        },
         "tool_1_text": {},
-        "tool_2_title": {},
+        "tool_2_title": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        },
         "tool_2_text": {},
         "tool_2_button_text": {},
-        "tool_3_title": {},
+        "tool_3_title": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        },
         "tool_3_text": {},
         "tool_3_button_text": {},
         "tool_4_title": {},
@@ -895,7 +1398,14 @@
         "tool_1_text": {},
         "tool_2_title": {},
         "tool_2_text": {},
-        "tool_3_title": {},
+        "tool_3_title": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        },
         "tool_3_text": {},
         "tool_4_title": {}
       },

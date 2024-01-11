@@ -35,7 +35,14 @@
       "name": "button_1",
       "value": "Support Contacts",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        }
       },
       "action_list": [
         {
@@ -48,12 +55,12 @@
           "_cleaned": "click | go_to: parent_centre_support_con"
         }
       ],
-      "condition": "@fields._deployment_name == \"plh_tz\"",
+      "condition": "@fields._deployment_name == \"plh_teens_tz\"",
       "_nested_name": "button_1",
       "_dynamicFields": {
         "condition": [
           {
-            "fullExpression": "@fields._deployment_name == \"plh_tz\"",
+            "fullExpression": "@fields._deployment_name == \"plh_teens_tz\"",
             "matchedExpression": "@fields._deployment_name",
             "type": "fields",
             "fieldName": "_deployment_name"
@@ -71,7 +78,14 @@
       "name": "button_2",
       "value": "Quick Parenting Tips",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        }
       },
       "action_list": [
         {
@@ -91,7 +105,14 @@
       "name": "button_3",
       "value": "Technical Support",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        }
       },
       "action_list": [
         {

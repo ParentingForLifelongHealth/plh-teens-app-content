@@ -247,7 +247,14 @@
       "image_asset": "plh_images/workshops/w_svp/use_body/moves.gif",
       "title": "Examples",
       "_translations": {
-        "title": {},
+        "title": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        },
         "text": {}
       },
       "_translatedFields": {

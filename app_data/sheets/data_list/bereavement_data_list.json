@@ -9,7 +9,14 @@
       "content_template": "bereavement_self",
       "title": "Help yourself cope",
       "_translations": {
-        "title": {}
+        "title": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -22,7 +29,14 @@
       "content_template": "bereavement_teen",
       "title": "Help your teen cope",
       "_translations": {
-        "title": {}
+        "title": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -35,7 +49,14 @@
       "content_template": "bereavement_practical",
       "title": "Practical steps",
       "_translations": {
-        "title": {}
+        "title": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        }
       },
       "_translatedFields": {
         "title": {

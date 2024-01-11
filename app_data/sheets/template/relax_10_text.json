@@ -22,7 +22,14 @@
           "name": "outro_text",
           "value": "Try this next time you feel alone or are doing a mundane activity like washing up. It can really help!",
           "_translations": {
-            "value": {}
+            "value": {
+              "tz_sw": true,
+              "za_af": true,
+              "za_st": true,
+              "za_tn": true,
+              "za_xh": true,
+              "za_zu": true
+            }
           },
           "type": "set_variable",
           "_nested_name": "relax_text.outro_text"

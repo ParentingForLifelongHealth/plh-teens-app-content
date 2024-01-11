@@ -15,8 +15,22 @@
       "completed": "@fields.reflect_positive_completed",
       "title": "Reflect on the positive",
       "_translations": {
-        "title": {},
-        "activity_text": {}
+        "title": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        },
+        "activity_text": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -39,8 +53,22 @@
       "completed": "@fields.check_in_chat_completed",
       "title": "Check-in chat",
       "_translations": {
-        "title": {},
-        "activity_text": {}
+        "title": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        },
+        "activity_text": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -64,7 +92,14 @@
       "title": "Dream travel",
       "_translations": {
         "title": {},
-        "activity_text": {}
+        "activity_text": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -88,7 +123,14 @@
       "title": "Famous party",
       "_translations": {
         "title": {},
-        "activity_text": {}
+        "activity_text": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -111,8 +153,22 @@
       "completed": "@fields.two_truths_completed",
       "title": "Two truths, one lie",
       "_translations": {
-        "title": {},
-        "activity_text": {}
+        "title": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        },
+        "activity_text": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -136,7 +192,14 @@
       "title": "Time machine",
       "_translations": {
         "title": {},
-        "activity_text": {}
+        "activity_text": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -159,8 +222,22 @@
       "completed": "@fields.superpowers_completed",
       "title": "Superpowers",
       "_translations": {
-        "title": {},
-        "activity_text": {}
+        "title": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        },
+        "activity_text": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -182,8 +259,22 @@
       "completed": "@fields.friendly_chat_completed",
       "title": "Just a friendly chat",
       "_translations": {
-        "title": {},
-        "activity_text": {}
+        "title": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        },
+        "activity_text": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -228,8 +319,22 @@
       "completed": "@fields.three_options_completed",
       "title": "Three options",
       "_translations": {
-        "title": {},
-        "activity_text": {}
+        "title": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        },
+        "activity_text": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -297,7 +402,14 @@
       "completed": "@fields.invent_story_completed",
       "title": "Make up a story",
       "_translations": {
-        "title": {},
+        "title": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        },
         "activity_text": {}
       },
       "_translatedFields": {
@@ -321,8 +433,22 @@
       "completed": "@fields.co_chef_completed",
       "title": "Co-chef",
       "_translations": {
-        "title": {},
-        "activity_text": {}
+        "title": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        },
+        "activity_text": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -345,8 +471,22 @@
       "completed": "@fields.dance_moves_completed",
       "title": "Dance moves",
       "_translations": {
-        "title": {},
-        "activity_text": {}
+        "title": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        },
+        "activity_text": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -369,7 +509,14 @@
       "completed": "@fields.mirror_completed",
       "title": "Mirror",
       "_translations": {
-        "title": {},
+        "title": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        },
         "activity_text": {}
       },
       "_translatedFields": {
@@ -392,7 +539,14 @@
       "completed": "@fields.whats_new_completed",
       "title": "What's new?",
       "_translations": {
-        "title": {},
+        "title": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        },
         "activity_text": {}
       },
       "_translatedFields": {
@@ -415,8 +569,22 @@
       "completed": "@fields.get_active_completed",
       "title": "Get active!",
       "_translations": {
-        "title": {},
-        "activity_text": {}
+        "title": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        },
+        "activity_text": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -438,8 +606,22 @@
       "completed": "@fields.name_that_tune_completed",
       "title": "Name that tune",
       "_translations": {
-        "title": {},
-        "activity_text": {}
+        "title": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        },
+        "activity_text": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -461,9 +643,30 @@
       "completed": "@fields.pass_the_snap_completed",
       "title": "Pass the snap",
       "_translations": {
-        "title": {},
-        "intro_text": {},
-        "activity_text": {}
+        "title": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        },
+        "intro_text": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        },
+        "activity_text": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -489,8 +692,22 @@
       "completed": "@fields.family_workout_completed",
       "title": "Family workout",
       "_translations": {
-        "title": {},
-        "activity_text": {}
+        "title": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        },
+        "activity_text": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -513,8 +730,22 @@
       "completed": "@fields.housework_completed",
       "title": "Make housework fun",
       "_translations": {
-        "title": {},
-        "intro_text": {},
+        "title": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        },
+        "intro_text": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        },
         "activity_text": {}
       },
       "_translatedFields": {
@@ -542,9 +773,30 @@
       "completed": "@fields.doing_what_completed",
       "title": "What are you doing?",
       "_translations": {
-        "title": {},
-        "intro_text": {},
-        "activity_text": {}
+        "title": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        },
+        "intro_text": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        },
+        "activity_text": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -570,8 +822,22 @@
       "completed": "@fields.crazy_chicken_completed",
       "title": "Crazy chicken",
       "_translations": {
-        "title": {},
-        "activity_text": {}
+        "title": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        },
+        "activity_text": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        }
       },
       "_translatedFields": {
         "title": {

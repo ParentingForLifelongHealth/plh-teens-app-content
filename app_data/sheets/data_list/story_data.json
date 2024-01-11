@@ -11,10 +11,33 @@
       "image_2": "plh_images/workshops/w_praise/read/slide_2.svg",
       "title": "Notice the good",
       "_translations": {
-        "title": {},
-        "intro_text": {},
-        "text_1": {},
-        "text_2": {}
+        "title": {
+          "tz_sw": true
+        },
+        "intro_text": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        },
+        "text_1": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        },
+        "text_2": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -42,11 +65,31 @@
       "image_3": "plh_images/workshops/w_instruct/read_1/slide_3.svg",
       "title": "Negative instructions",
       "_translations": {
-        "title": {},
-        "intro_text": {},
-        "text_1": {},
-        "text_2": {},
-        "text_3": {}
+        "title": {
+          "tz_sw": true
+        },
+        "intro_text": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        },
+        "text_1": {
+          "tz_sw": true
+        },
+        "text_2": {
+          "tz_sw": true
+        },
+        "text_3": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -80,13 +123,37 @@
       "image_5": "plh_images/workshops/w_instruct/read_2/slide_5.svg",
       "title": "Positive instructions",
       "_translations": {
-        "title": {},
-        "intro_text": {},
-        "text_1": {},
-        "text_2": {},
-        "text_3": {},
-        "text_4": {},
-        "text_5": {}
+        "title": {
+          "tz_sw": true
+        },
+        "intro_text": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        },
+        "text_1": {
+          "tz_sw": true
+        },
+        "text_2": {
+          "tz_sw": true
+        },
+        "text_3": {
+          "tz_sw": true
+        },
+        "text_4": {
+          "tz_sw": true
+        },
+        "text_5": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -129,13 +196,57 @@
       "image_6": "plh_images/workshops/w_stress/read_1/slide_6.svg",
       "title": "Ignoring our emotions",
       "_translations": {
-        "title": {},
-        "intro_text": {},
-        "text_1": {},
-        "text_2": {},
-        "text_3": {},
-        "text_4": {},
-        "text_5": {}
+        "title": {
+          "tz_sw": true
+        },
+        "intro_text": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        },
+        "text_1": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        },
+        "text_2": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        },
+        "text_3": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        },
+        "text_4": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        },
+        "text_5": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -178,13 +289,50 @@
       "image_5": "plh_images/workshops/w_stress/read_2/slide_5.svg",
       "title": "Acknowledging our emotions",
       "_translations": {
-        "title": {},
-        "intro_text": {},
-        "text_1": {},
-        "text_2": {},
+        "title": {
+          "tz_sw": true
+        },
+        "intro_text": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        },
+        "text_1": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        },
+        "text_2": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        },
         "text_3": {},
-        "text_4": {},
-        "text_5": {}
+        "text_4": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        },
+        "text_5": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -234,8 +382,12 @@
         "text_2": {},
         "text_3": {},
         "text_4": {},
-        "text_5": {},
-        "text_6": {}
+        "text_5": {
+          "tz_sw": true
+        },
+        "text_6": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -245,7 +397,7 @@
           "eng": "Think back to when you were a teenager. \n\nWas there ever a time when you were in danger but you could not tell your family because they would have been angry?\n\nThis ALMOST happened to @global.w_stress_teen_boy_2 and @global.w_stress_teen_girl! Let’s have a look:"
         },
         "text_1": {
-          "eng": "@global.w_stress_teen_boy_2: \"Don’t tell the adults, but I am going to bar with my friends tonight\" \n\n@global.w_stress_teen_girl: \"Have fun! I have told them I am staying with my girlfriend, but I am actually going to a cool party.\""
+          "eng": "@global.w_stress_teen_boy_2: \"Don’t tell the adults, but I am going to bar with my friends tonight.\" \n\n@global.w_stress_teen_girl: \"Have fun! I have told them I am staying with my girlfriend, but I am actually going to a cool party.\""
         },
         "text_2": {
           "eng": "@global.w_stress_teen_boy_2: \"I think they are dealing drugs. We could all get arrested. But I can’t tell my parents – they will be so angry!\""
@@ -264,7 +416,7 @@
         }
       },
       "intro_text": "Think back to when you were a teenager. \n\nWas there ever a time when you were in danger but you could not tell your family because they would have been angry?\n\nThis ALMOST happened to @global.w_stress_teen_boy_2 and @global.w_stress_teen_girl! Let’s have a look:",
-      "text_1": "@global.w_stress_teen_boy_2: \"Don’t tell the adults, but I am going to bar with my friends tonight\" \n\n@global.w_stress_teen_girl: \"Have fun! I have told them I am staying with my girlfriend, but I am actually going to a cool party.\"",
+      "text_1": "@global.w_stress_teen_boy_2: \"Don’t tell the adults, but I am going to bar with my friends tonight.\" \n\n@global.w_stress_teen_girl: \"Have fun! I have told them I am staying with my girlfriend, but I am actually going to a cool party.\"",
       "text_2": "@global.w_stress_teen_boy_2: \"I think they are dealing drugs. We could all get arrested. But I can’t tell my parents – they will be so angry!\"",
       "text_3": "@global.w_stress_teen_girl: \"I am scared. Everyone is too drunk to drive me home. This boy says he will take me but he wants us to go to his house first. I can’t tell my parents – I lied about coming to this party.\"",
       "text_4": "These are dangerous situations! Thankfully, @global.w_stress_teen_boy_2 and @global.w_stress_teen_girl then remembered what @global.w_stress_parent told them:  \n\n\"I care about your safety more than anything. If you are ever upset, or scared, you can always call me for help, or tell me about it. \n\nShall we use an imaginary ‘@global.safety_word_example_1’ as @global.safety_word? Just say something about @global.safety_word_example_1, I promise that I will try my best to help and I will not be angry – even if you are doing something you should not.\"",
@@ -278,9 +430,18 @@
       "image_2": "plh_images/workshops/w_money/read_1/slide_1.svg",
       "title": "Money problems",
       "_translations": {
-        "title": {},
+        "title": {
+          "tz_sw": true
+        },
         "intro_text": {},
-        "text_1": {},
+        "text_1": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        },
         "text_2": {}
       },
       "_translatedFields": {
@@ -311,10 +472,26 @@
       "image_5": "plh_images/workshops/w_money/read_3/slide_6.svg",
       "title": "Preparing for the future",
       "_translations": {
-        "title": {},
-        "intro_text": {},
+        "title": {
+          "tz_sw": true
+        },
+        "intro_text": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        },
         "text_1": {},
-        "text_2": {},
+        "text_2": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        },
         "text_3": {},
         "text_4": {},
         "text_5": {}
@@ -355,9 +532,18 @@
       "image_1": "plh_images/workshops/w_money/read_4/slide_1.svg",
       "title": "Coping with emergencies",
       "_translations": {
-        "title": {},
+        "title": {
+          "tz_sw": true
+        },
         "intro_text": {},
-        "text_1": {}
+        "text_1": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -385,16 +571,67 @@
       "image_7": "plh_images/workshops/w_rules/read_1/slide_8.svg",
       "title": "Making a rule",
       "_translations": {
-        "title": {},
-        "intro_text": {},
-        "text_1": {},
-        "dashed_box_1": {},
-        "text_2": {},
+        "title": {
+          "tz_sw": true
+        },
+        "intro_text": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        },
+        "text_1": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        },
+        "dashed_box_1": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        },
+        "text_2": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        },
         "text_3": {},
         "text_4": {},
-        "text_5": {},
-        "text_6": {},
-        "text_7": {}
+        "text_5": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        },
+        "text_6": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        },
+        "text_7": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -413,7 +650,7 @@
           "eng": "Let’s see how @global.w_rules_female_caregiver_1 and @global.w_rules_teen_boy did this the next day:\n\n@global.w_rules_female_caregiver_1: “I want you to have fun, @global.w_rules_teen_boy, but I’m also worried about you staying out late. Do you know why?” \n\n@global.w_rules_teen_boy: “Because you want me to have enough time for my schoolwork?”"
         },
         "text_3": {
-          "eng": "@global.w_rules_female_caregiver_1: “That is right, and it is also not safe in this area to be outside after sunset. What do you think would be a good time for you to be home?”"
+          "eng": "@global.w_rules_female_caregiver_1: “That is right. It is also not safe in this area to be outside after sunset. What do you think would be a good time for you to be home?”"
         },
         "text_4": {
           "eng": "@global.w_rules_teen_boy: “I could come home at 10pm?\"  \n\n@global.w_rules_female_caregiver_1: “That is a bit late, what about 6pm? Or something in the middle?\""
@@ -432,7 +669,7 @@
       "text_1": "@global.w_rules_female_caregiver_1: \"You always come home late!\"\n\n@global.w_rules_teen_boy: \"No I don’t, I don’t even know what late means! Stop nagging me.\"",
       "dashed_box_1": "Which specific rule could @global.w_rules_teen_boy and @global.w_rules_female_caregiver_1 create together?",
       "text_2": "Let’s see how @global.w_rules_female_caregiver_1 and @global.w_rules_teen_boy did this the next day:\n\n@global.w_rules_female_caregiver_1: “I want you to have fun, @global.w_rules_teen_boy, but I’m also worried about you staying out late. Do you know why?” \n\n@global.w_rules_teen_boy: “Because you want me to have enough time for my schoolwork?”",
-      "text_3": "@global.w_rules_female_caregiver_1: “That is right, and it is also not safe in this area to be outside after sunset. What do you think would be a good time for you to be home?”",
+      "text_3": "@global.w_rules_female_caregiver_1: “That is right. It is also not safe in this area to be outside after sunset. What do you think would be a good time for you to be home?”",
       "text_4": "@global.w_rules_teen_boy: “I could come home at 10pm?\"  \n\n@global.w_rules_female_caregiver_1: “That is a bit late, what about 6pm? Or something in the middle?\"",
       "text_5": "@global.w_rules_teen_boy: “I could come home at 6pm on school nights and 10pm on Friday and Saturday?” \n\n@global.w_rules_female_caregiver_1: “Yes, great. From now on, our household rule is that you need to come home at 6pm on school nights and 10pm on Friday and Saturday. But you always walk home with a friend. Okay?”",
       "text_6": "@global.w_rules_teen_boy: “Okay, @global.w_rules_female_caregiver_1” \n\n@global.w_rules_female_caregiver_1: “Thank you very much, @global.w_rules_teen_boy, for helping to come up with a good rule together. I am proud to see how responsible you are getting.”",
@@ -449,12 +686,28 @@
       "image_5": "plh_images/workshops/w_rules/read_2/slide_5.svg",
       "title": "Online safety",
       "_translations": {
-        "title": {},
+        "title": {
+          "tz_sw": true
+        },
         "intro_text": {},
         "text_1": {},
         "text_2": {},
-        "text_3": {},
-        "text_4": {},
+        "text_3": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        },
+        "text_4": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        },
         "text_5": {}
       },
       "_translatedFields": {
@@ -496,12 +749,49 @@
       "image_4": "plh_images/workshops/w_consequence/read_1/slide_4.svg",
       "title": "Home late",
       "_translations": {
-        "title": {},
-        "intro_text": {},
-        "text_1": {},
-        "text_2": {},
-        "text_3": {},
-        "text_4": {}
+        "title": {
+          "tz_sw": true
+        },
+        "intro_text": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        },
+        "text_1": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        },
+        "text_2": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        },
+        "text_3": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        },
+        "text_4": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -543,17 +833,82 @@
       "image_9": "plh_images/workshops/w_consequence/read_3/slide_9.svg",
       "title": "Discussing and using consequences",
       "_translations": {
-        "title": {},
-        "intro_text": {},
-        "text_1": {},
+        "title": {
+          "tz_sw": true
+        },
+        "intro_text": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        },
+        "text_1": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        },
         "text_2": {},
-        "text_3": {},
-        "text_4": {},
-        "text_5": {},
-        "text_6": {},
-        "text_7": {},
-        "text_8": {},
-        "text_9": {}
+        "text_3": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        },
+        "text_4": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        },
+        "text_5": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        },
+        "text_6": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        },
+        "text_7": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        },
+        "text_8": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        },
+        "text_9": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -609,10 +964,26 @@
       "image_3": "plh_images/workshops/w_solve/read_1/slide_3.svg",
       "title": "The new phone",
       "_translations": {
-        "title": {},
+        "title": {
+          "tz_sw": true
+        },
         "intro_text": {},
-        "text_1": {},
-        "text_2": {},
+        "text_1": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        },
+        "text_2": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        },
         "text_3": {}
       },
       "_translatedFields": {
@@ -654,24 +1025,89 @@
       "image_12": "plh_images/workshops/w_solve/read_2/slide_12.svg",
       "title": "Dealing with bullies",
       "_translations": {
-        "title": {},
-        "intro_text": {},
-        "text_1": {},
+        "title": {
+          "tz_sw": true
+        },
+        "intro_text": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        },
+        "text_1": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        },
         "text_2": {},
         "text_3": {},
         "text_4": {},
-        "dashed_box_4": {},
+        "dashed_box_4": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        },
         "text_5": {},
         "text_6": {},
-        "dashed_box_6": {},
-        "text_7": {},
-        "text_8": {},
+        "dashed_box_6": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        },
+        "text_7": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        },
+        "text_8": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        },
         "text_9": {},
         "text_10": {},
-        "dashed_box_10": {},
+        "dashed_box_10": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        },
         "text_11": {},
-        "dashed_box_11": {},
-        "text_12": {}
+        "dashed_box_11": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        },
+        "text_12": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -758,14 +1194,30 @@
       "image_6": "plh_images/workshops/w_safe/read_1/slide_6.svg",
       "title": "Man in car",
       "_translations": {
-        "title": {},
-        "intro_text": {},
+        "title": {
+          "tz_sw": true
+        },
+        "intro_text": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        },
         "text_1": {},
         "text_2": {},
         "text_3": {},
         "text_4": {},
         "text_5": {},
-        "text_6": {}
+        "text_6": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -809,10 +1261,26 @@
       "image_3": "plh_images/workshops/w_safe/read_2/slide_3.svg",
       "title": "Online contact",
       "_translations": {
-        "title": {},
-        "intro_text": {},
+        "title": {
+          "tz_sw": true
+        },
+        "intro_text": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        },
         "text_1": {},
-        "text_2": {},
+        "text_2": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        },
         "text_3": {}
       },
       "_translatedFields": {
@@ -848,14 +1316,44 @@
       "image_6": "plh_images/workshops/w_crisis/read_1/slide_6.svg",
       "title": "@global.w_crisis_teen_girl_1's crisis",
       "_translations": {
-        "title": {},
-        "intro_text": {},
-        "text_1": {},
+        "title": {
+          "tz_sw": true
+        },
+        "intro_text": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        },
+        "text_1": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        },
         "text_2": {},
         "text_3": {},
         "text_4": {},
-        "text_5": {},
-        "text_6": {}
+        "text_5": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        },
+        "text_6": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -902,14 +1400,51 @@
       "image_6": "plh_images/workshops/w_crisis/read_2/slide_6.svg",
       "title": "The fight",
       "_translations": {
-        "title": {},
-        "intro_text": {},
+        "title": {
+          "tz_sw": true
+        },
+        "intro_text": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        },
         "text_1": {},
-        "text_2": {},
+        "text_2": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        },
         "text_3": {},
-        "text_4": {},
-        "text_5": {},
-        "text_6": {}
+        "text_4": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        },
+        "text_5": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        },
+        "text_6": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        }
       },
       "_translatedFields": {
         "title": {

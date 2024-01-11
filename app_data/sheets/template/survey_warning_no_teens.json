@@ -12,7 +12,14 @@
           "name": "title",
           "value": "Are there teens in your family?",
           "_translations": {
-            "value": {}
+            "value": {
+              "tz_sw": true,
+              "za_af": true,
+              "za_st": true,
+              "za_tn": true,
+              "za_xh": true,
+              "za_zu": true
+            }
           },
           "type": "set_variable",
           "_nested_name": "survey_warning.title"

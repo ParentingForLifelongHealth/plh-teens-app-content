@@ -12,7 +12,14 @@
           "name": "description_text",
           "value": "Things to praise yourself for:",
           "_translations": {
-            "value": {}
+            "value": {
+              "tz_sw": true,
+              "za_af": true,
+              "za_st": true,
+              "za_tn": true,
+              "za_xh": true,
+              "za_zu": true
+            }
           },
           "type": "set_variable",
           "_nested_name": "suggestions.description_text"
@@ -21,7 +28,14 @@
           "name": "list_text",
           "value": "* Showing love to your children \n* Getting up even though you felt tired \n* Smiling at someone \n* Making food to stay strong \n* Spending time with your children \n* Helping your children with schoolwork",
           "_translations": {
-            "value": {}
+            "value": {
+              "tz_sw": true,
+              "za_af": true,
+              "za_st": true,
+              "za_tn": true,
+              "za_xh": true,
+              "za_zu": true
+            }
           },
           "type": "set_variable",
           "_nested_name": "suggestions.list_text"

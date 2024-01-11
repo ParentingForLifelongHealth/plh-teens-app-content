@@ -9,7 +9,14 @@
       "name": "financial_emergency_1",
       "value": "Severe illness or death of a friend or family member",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        }
       }
     },
     {
@@ -17,7 +24,14 @@
       "name": "financial_emergency_2",
       "value": "Robbery",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        }
       }
     },
     {
@@ -25,7 +39,14 @@
       "name": "financial_emergency_3",
       "value": "Flooding",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        }
       }
     },
     {
@@ -33,7 +54,14 @@
       "name": "financial_emergency_4",
       "value": "Political violence",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        }
       }
     },
     {
@@ -41,7 +69,14 @@
       "name": "financial_emergency_5",
       "value": "Losing my job",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        }
       }
     },
     {
@@ -49,7 +84,14 @@
       "name": "financial_emergency_6",
       "value": "Pandemic (COVID-19)",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        }
       }
     }
   ],

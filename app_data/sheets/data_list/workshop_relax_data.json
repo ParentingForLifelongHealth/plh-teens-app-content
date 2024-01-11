@@ -13,8 +13,22 @@
       "relax_data": "@data.relax.relax_5",
       "intro_text": "Let's try it out and do a short relaxation activity together!",
       "_translations": {
-        "intro_text": {},
-        "outro_text": {}
+        "intro_text": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        },
+        "outro_text": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        }
       },
       "_translatedFields": {
         "intro_text": {

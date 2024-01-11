@@ -8,7 +8,14 @@
       "name": "my_activities",
       "value": "My Favourite Activities",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        }
       }
     },
     {
@@ -16,7 +23,14 @@
       "name": "all_activities",
       "value": "All Activities",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        }
       }
     },
     {
@@ -32,7 +46,9 @@
       "name": "something_fun",
       "value": "Something fun",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       }
     },
     {
@@ -40,7 +56,14 @@
       "name": "random_activity",
       "value": "Random Activity",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        }
       }
     },
     {
@@ -48,7 +71,14 @@
       "name": "current_activity",
       "value": "This Week's Activity",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        }
       }
     },
     {
@@ -56,7 +86,14 @@
       "name": "chat_together",
       "value": "Chat Together",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        }
       }
     },
     {
@@ -64,7 +101,14 @@
       "name": "do_together",
       "value": "Do Together",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        }
       }
     },
     {

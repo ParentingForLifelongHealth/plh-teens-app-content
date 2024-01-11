@@ -224,7 +224,14 @@
       "name": "text",
       "value": "How would you like to do this workshop?",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        }
       },
       "_nested_name": "text"
     },

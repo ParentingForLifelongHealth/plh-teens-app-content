@@ -15,17 +15,47 @@
       "has_challenges": true,
       "text_goal": "Your goal was to spend one-on-one time with your teen.",
       "_translations": {
-        "text_goal": {},
-        "reply_happy": {},
+        "text_goal": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        },
+        "reply_happy": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        },
         "reply_ok": {},
         "reply_sad": {},
         "activity_title": {},
         "intro_text": {},
-        "question_done": {},
+        "question_done": {
+          "tz_sw": true
+        },
         "reply_no": {},
         "button_no_text": {},
-        "question_how": {},
-        "outro_text": {}
+        "question_how": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        },
+        "outro_text": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        }
       },
       "_translatedFields": {
         "text_goal": {
@@ -35,7 +65,7 @@
           "eng": "That’s wonderful! Well done for spending time together. It lays the foundation for a great relationship with your teen!"
         },
         "reply_ok": {
-          "eng": "Sometimes it will be easy and fun to spend time with your teens, and sometimes it will be more challenging. Spending time together will definitely improve your relationship!"
+          "eng": "Sometimes it will be easy and fun to spend time with your teens and sometimes it will be more challenging. Spending time together will definitely improve your relationship!"
         },
         "reply_sad": {
           "eng": "Sorry to hear that it was difficult for you to spend time with your teen. We all have challenges sometimes. Just be patient with yourself and your teen – things will get better. Well done for trying!"
@@ -63,7 +93,7 @@
         }
       },
       "reply_happy": "That’s wonderful! Well done for spending time together. It lays the foundation for a great relationship with your teen!",
-      "reply_ok": "Sometimes it will be easy and fun to spend time with your teens, and sometimes it will be more challenging. Spending time together will definitely improve your relationship!",
+      "reply_ok": "Sometimes it will be easy and fun to spend time with your teens and sometimes it will be more challenging. Spending time together will definitely improve your relationship!",
       "reply_sad": "Sorry to hear that it was difficult for you to spend time with your teen. We all have challenges sometimes. Just be patient with yourself and your teen – things will get better. Well done for trying!",
       "activity_title": "@global.hp_review",
       "intro_text": "@global.text_hp_review",
@@ -84,30 +114,55 @@
       "challenges_structure": "plain",
       "text_goal": "Your goal was to praise your teen.",
       "_translations": {
-        "text_goal": {},
+        "text_goal": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        },
         "reply_no": {},
         "reply_happy": {},
         "reply_ok": {},
-        "reply_sad": {},
-        "outro_text": {},
+        "reply_sad": {
+          "tz_sw": true
+        },
+        "outro_text": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        },
         "activity_title": {},
         "intro_text": {},
-        "question_done": {},
+        "question_done": {
+          "tz_sw": true
+        },
         "button_no_text": {},
-        "question_how": {}
+        "question_how": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        }
       },
       "_translatedFields": {
         "text_goal": {
           "eng": "Your goal was to praise your teen."
         },
         "reply_no": {
-          "eng": "It can sometimes be hard to remember to praise our teens. Next time you spend one-on-one time with your teen, try and think of one thing you can praise them for. You can even say, “Thank you for spending time with me!”."
+          "eng": "It can sometimes be hard to remember to praise our teens. Next time you spend one-on-one time with your teen, try and think of one thing you can praise them for. You can even say, “Thank you for spending time with me!”"
         },
         "reply_happy": {
           "eng": "Great to hear it went well! Keep up the praise – you will see your teen do more and more of the behaviour you like to see!"
         },
         "reply_ok": {
-          "eng": "It sometimes takes a bit of time to adjust to praising, but it makes a big difference, you will see."
+          "eng": "It sometimes takes a bit of time to adjust to praising, but it makes a big difference – you will see."
         },
         "reply_sad": {
           "eng": "Sorry that you struggled with this. Starting with praise can take some practice, but you will see the positive results soon!"
@@ -131,9 +186,9 @@
           "eng": "How did it go?"
         }
       },
-      "reply_no": "It can sometimes be hard to remember to praise our teens. Next time you spend one-on-one time with your teen, try and think of one thing you can praise them for. You can even say, “Thank you for spending time with me!”.",
+      "reply_no": "It can sometimes be hard to remember to praise our teens. Next time you spend one-on-one time with your teen, try and think of one thing you can praise them for. You can even say, “Thank you for spending time with me!”",
       "reply_happy": "Great to hear it went well! Keep up the praise – you will see your teen do more and more of the behaviour you like to see!",
-      "reply_ok": "It sometimes takes a bit of time to adjust to praising, but it makes a big difference, you will see.",
+      "reply_ok": "It sometimes takes a bit of time to adjust to praising, but it makes a big difference – you will see.",
       "reply_sad": "Sorry that you struggled with this. Starting with praise can take some practice, but you will see the positive results soon!",
       "outro_text": "You deserve some praise, too. Thank you again for using @global.parent_app. It shows you really care!",
       "activity_title": "@global.hp_review",
@@ -153,17 +208,42 @@
       "has_challenges": true,
       "text_goal": "Your home practice was to try out REAL, POSITIVE and EXACT instructions with your teen.",
       "_translations": {
-        "text_goal": {},
-        "reply_happy": {},
-        "reply_ok": {},
+        "text_goal": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        },
+        "reply_happy": {
+          "tz_sw": true
+        },
+        "reply_ok": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        },
         "reply_sad": {},
         "outro_text": {},
         "activity_title": {},
         "intro_text": {},
-        "question_done": {},
+        "question_done": {
+          "tz_sw": true
+        },
         "reply_no": {},
         "button_no_text": {},
-        "question_how": {}
+        "question_how": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        }
       },
       "_translatedFields": {
         "text_goal": {
@@ -222,17 +302,51 @@
       "challenges_structure": "plain",
       "text_goal": "This week, your goal was: Whenever you are feeling stressed or upset, take five breaths in and out before you react. \n\nYour goal was also to talk to your teen about how you both felt in a stressful situation.",
       "_translations": {
-        "text_goal": {},
-        "reply_happy": {},
-        "reply_ok": {},
-        "reply_sad": {},
+        "text_goal": {
+          "tz_sw": true
+        },
+        "reply_happy": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        },
+        "reply_ok": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        },
+        "reply_sad": {
+          "tz_sw": true
+        },
         "activity_title": {},
         "intro_text": {},
-        "question_done": {},
+        "question_done": {
+          "tz_sw": true
+        },
         "reply_no": {},
         "button_no_text": {},
-        "question_how": {},
-        "outro_text": {}
+        "question_how": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        },
+        "outro_text": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        }
       },
       "_translatedFields": {
         "text_goal": {
@@ -291,17 +405,51 @@
       "challenges_structure": "plain",
       "text_goal": "Your goal was to make a family budget and savings plan.",
       "_translations": {
-        "text_goal": {},
-        "reply_happy": {},
-        "reply_ok": {},
-        "reply_sad": {},
-        "outro_text": {},
+        "text_goal": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        },
+        "reply_happy": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        },
+        "reply_ok": {
+          "tz_sw": true
+        },
+        "reply_sad": {
+          "tz_sw": true
+        },
+        "outro_text": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        },
         "activity_title": {},
         "intro_text": {},
-        "question_done": {},
+        "question_done": {
+          "tz_sw": true
+        },
         "reply_no": {},
         "button_no_text": {},
-        "question_how": {}
+        "question_how": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        }
       },
       "_translatedFields": {
         "text_goal": {
@@ -359,24 +507,37 @@
       "challenges_structure": "plain",
       "text_goal": "Your goal was to make ONE rule with your teen.",
       "_translations": {
-        "text_goal": {},
+        "text_goal": {
+          "tz_sw": true
+        },
         "reply_happy": {},
-        "reply_ok": {},
+        "reply_ok": {
+          "tz_sw": true
+        },
         "reply_sad": {},
         "outro_text": {},
         "activity_title": {},
         "intro_text": {},
-        "question_done": {},
+        "question_done": {
+          "tz_sw": true
+        },
         "reply_no": {},
         "button_no_text": {},
-        "question_how": {}
+        "question_how": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        }
       },
       "_translatedFields": {
         "text_goal": {
           "eng": "Your goal was to make ONE rule with your teen."
         },
         "reply_happy": {
-          "eng": "Great to hear it went well! Consistent rules help make our teens feel secure, and keep them safe!"
+          "eng": "Great to hear it went well! Consistent rules help make our teens feel secure and keep them safe!"
         },
         "reply_ok": {
           "eng": "It can be hard to create your first rule together, but you will see the benefits of involving your family. Keep trying!"
@@ -406,7 +567,7 @@
           "eng": "How did it go?"
         }
       },
-      "reply_happy": "Great to hear it went well! Consistent rules help make our teens feel secure, and keep them safe!",
+      "reply_happy": "Great to hear it went well! Consistent rules help make our teens feel secure and keep them safe!",
       "reply_ok": "It can be hard to create your first rule together, but you will see the benefits of involving your family. Keep trying!",
       "reply_sad": "Sorry that this has been difficult. Creating rules together requires some practice but it is worth it!",
       "outro_text": "Well done for this! It is not easy, and teenagers will not keep to the rules all the time, but making a few key rules together is a great start. Praise yourself for trying this – we are proud of you!",
@@ -428,17 +589,51 @@
       "challenges_structure": "plain",
       "text_goal": "Your goal was to introduce ONE positive consequence (for your teen taking responsibility) and ONE negative consequence (for your teen breaking a household rule).",
       "_translations": {
-        "text_goal": {},
-        "reply_happy": {},
-        "reply_ok": {},
-        "reply_sad": {},
+        "text_goal": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        },
+        "reply_happy": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        },
+        "reply_ok": {
+          "tz_sw": true
+        },
+        "reply_sad": {
+          "tz_sw": true
+        },
         "activity_title": {},
         "intro_text": {},
-        "question_done": {},
+        "question_done": {
+          "tz_sw": true
+        },
         "reply_no": {},
         "button_no_text": {},
-        "question_how": {},
-        "outro_text": {}
+        "question_how": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        },
+        "outro_text": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        }
       },
       "_translatedFields": {
         "text_goal": {
@@ -496,17 +691,56 @@
       "challenges_structure": "plain",
       "text_goal": "Your goal was to try and resolve a problem or conflict together with your teen.",
       "_translations": {
-        "text_goal": {},
-        "reply_happy": {},
-        "reply_ok": {},
-        "reply_sad": {},
+        "text_goal": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        },
+        "reply_happy": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        },
+        "reply_ok": {
+          "tz_sw": true
+        },
+        "reply_sad": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        },
         "activity_title": {},
         "intro_text": {},
-        "question_done": {},
+        "question_done": {
+          "tz_sw": true
+        },
         "reply_no": {},
         "button_no_text": {},
-        "question_how": {},
-        "outro_text": {}
+        "question_how": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        },
+        "outro_text": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        }
       },
       "_translatedFields": {
         "text_goal": {
@@ -566,16 +800,48 @@
       "text_goal": "Your goal was to map risks and support systems with your teen – both in your community and online.",
       "_translations": {
         "text_goal": {},
-        "reply_happy": {},
-        "reply_ok": {},
-        "reply_sad": {},
+        "reply_happy": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        },
+        "reply_ok": {
+          "tz_sw": true
+        },
+        "reply_sad": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        },
         "activity_title": {},
         "intro_text": {},
-        "question_done": {},
+        "question_done": {
+          "tz_sw": true
+        },
         "reply_no": {},
         "button_no_text": {},
-        "question_how": {},
-        "outro_text": {}
+        "question_how": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        },
+        "outro_text": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        }
       },
       "_translatedFields": {
         "text_goal": {
@@ -634,17 +900,49 @@
       "challenges_structure": "plain",
       "text_goal": "Your goal was to discuss a possible crisis situation with your teen and make a plan for it.",
       "_translations": {
-        "text_goal": {},
-        "reply_happy": {},
-        "reply_ok": {},
+        "text_goal": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        },
+        "reply_happy": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        },
+        "reply_ok": {
+          "tz_sw": true
+        },
         "reply_sad": {},
         "activity_title": {},
         "intro_text": {},
-        "question_done": {},
+        "question_done": {
+          "tz_sw": true
+        },
         "reply_no": {},
         "button_no_text": {},
-        "question_how": {},
-        "outro_text": {}
+        "question_how": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        },
+        "outro_text": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        }
       },
       "_translatedFields": {
         "text_goal": {
@@ -708,11 +1006,27 @@
         "reply_sad": {},
         "activity_title": {},
         "intro_text": {},
-        "question_done": {},
+        "question_done": {
+          "tz_sw": true
+        },
         "reply_no": {},
         "button_no_text": {},
-        "question_how": {},
-        "outro_text": {}
+        "question_how": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        },
+        "outro_text": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        }
       },
       "_translatedFields": {
         "text_goal": {
@@ -777,11 +1091,27 @@
         "reply_sad": {},
         "activity_title": {},
         "intro_text": {},
-        "question_done": {},
+        "question_done": {
+          "tz_sw": true
+        },
         "reply_no": {},
         "button_no_text": {},
-        "question_how": {},
-        "outro_text": {}
+        "question_how": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        },
+        "outro_text": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        }
       },
       "_translatedFields": {
         "text_goal": {
@@ -847,10 +1177,19 @@
         "outro_text": {},
         "activity_title": {},
         "intro_text": {},
-        "question_done": {},
+        "question_done": {
+          "tz_sw": true
+        },
         "reply_no": {},
         "button_no_text": {},
-        "question_how": {}
+        "question_how": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        }
       },
       "_translatedFields": {
         "text_goal": {
@@ -916,9 +1255,18 @@
         "reply_sad": {},
         "outro_text": {},
         "activity_title": {},
-        "question_done": {},
+        "question_done": {
+          "tz_sw": true
+        },
         "button_no_text": {},
-        "question_how": {}
+        "question_how": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        }
       },
       "_translatedFields": {
         "intro_text": {
@@ -980,9 +1328,18 @@
         "reply_sad": {},
         "outro_text": {},
         "activity_title": {},
-        "question_done": {},
+        "question_done": {
+          "tz_sw": true
+        },
         "button_no_text": {},
-        "question_how": {}
+        "question_how": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        }
       },
       "_translatedFields": {
         "intro_text": {
@@ -1044,9 +1401,18 @@
         "reply_sad": {},
         "outro_text": {},
         "activity_title": {},
-        "question_done": {},
+        "question_done": {
+          "tz_sw": true
+        },
         "button_no_text": {},
-        "question_how": {}
+        "question_how": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        }
       },
       "_translatedFields": {
         "intro_text": {
@@ -1108,9 +1474,18 @@
         "reply_sad": {},
         "outro_text": {},
         "activity_title": {},
-        "question_done": {},
+        "question_done": {
+          "tz_sw": true
+        },
         "button_no_text": {},
-        "question_how": {}
+        "question_how": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        }
       },
       "_translatedFields": {
         "intro_text": {

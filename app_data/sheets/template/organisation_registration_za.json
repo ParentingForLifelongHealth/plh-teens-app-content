@@ -3,13 +3,20 @@
   "flow_name": "organisation_registration_za",
   "status": "released",
   "override_target": "organisation_registration",
-  "override_condition": "@fields._deployment_name == \"plh_za\"",
+  "override_condition": "@fields._deployment_name == \"plh_teens_za\"",
   "rows": [
     {
       "name": "myself",
       "value": "I found it myself",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        }
       },
       "type": "set_variable",
       "_nested_name": "myself"
@@ -18,7 +25,14 @@
       "name": "friend",
       "value": "A friend or family",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        }
       },
       "type": "set_variable",
       "_nested_name": "friend"

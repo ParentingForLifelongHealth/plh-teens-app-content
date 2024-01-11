@@ -9,7 +9,13 @@
       "name": "happy",
       "text": "Happy",
       "_translations": {
-        "text": {}
+        "text": {
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        }
       },
       "_translatedFields": {
         "text": {
@@ -22,7 +28,14 @@
       "name": "sad",
       "text": "Sad",
       "_translations": {
-        "text": {}
+        "text": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        }
       },
       "_translatedFields": {
         "text": {
@@ -35,7 +48,14 @@
       "name": "scared",
       "text": "Scared",
       "_translations": {
-        "text": {}
+        "text": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        }
       },
       "_translatedFields": {
         "text": {
@@ -61,7 +81,14 @@
       "name": "angry",
       "text": "Angry",
       "_translations": {
-        "text": {}
+        "text": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        }
       },
       "_translatedFields": {
         "text": {
@@ -100,7 +127,14 @@
       "name": "hopeful",
       "text": "Hopeful",
       "_translations": {
-        "text": {}
+        "text": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        }
       },
       "_translatedFields": {
         "text": {
@@ -152,7 +186,14 @@
       "name": "lonely",
       "text": "Lonely",
       "_translations": {
-        "text": {}
+        "text": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        }
       },
       "_translatedFields": {
         "text": {

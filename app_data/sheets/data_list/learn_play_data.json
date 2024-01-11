@@ -550,8 +550,22 @@
       "favourite_field": "ltp_activity_reflect_positive_favourite",
       "title": "Reflect on the positive",
       "_translations": {
-        "title": {},
-        "intro_text": {}
+        "title": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        },
+        "intro_text": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -572,8 +586,22 @@
       "favourite_field": "ltp_activity_check_in_chat_favourite",
       "title": "Check-in chat",
       "_translations": {
-        "title": {},
-        "intro_text": {}
+        "title": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        },
+        "intro_text": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -595,7 +623,14 @@
       "title": "Dream travel",
       "_translations": {
         "title": {},
-        "intro_text": {}
+        "intro_text": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -617,7 +652,14 @@
       "title": "Famous party",
       "_translations": {
         "title": {},
-        "intro_text": {}
+        "intro_text": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -638,8 +680,22 @@
       "favourite_field": "ltp_activity_two_truths_favourite",
       "title": "Two truths, one lie",
       "_translations": {
-        "title": {},
-        "intro_text": {}
+        "title": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        },
+        "intro_text": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -661,7 +717,14 @@
       "title": "Time machine",
       "_translations": {
         "title": {},
-        "intro_text": {}
+        "intro_text": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -682,8 +745,22 @@
       "favourite_field": "ltp_activity_superpowers_favourite",
       "title": "Superpowers",
       "_translations": {
-        "title": {},
-        "intro_text": {}
+        "title": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        },
+        "intro_text": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -704,8 +781,22 @@
       "favourite_field": "ltp_activity_friendly_chat_favourite",
       "title": "Just a friendly chat",
       "_translations": {
-        "title": {},
-        "intro_text": {}
+        "title": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        },
+        "intro_text": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -748,8 +839,22 @@
       "favourite_field": "ltp_activity_three_options_favourite",
       "title": "Three options",
       "_translations": {
-        "title": {},
-        "intro_text": {}
+        "title": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        },
+        "intro_text": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -814,7 +919,14 @@
       "favourite_field": "ltp_activity_invent_story_favourite",
       "title": "Make up a story",
       "_translations": {
-        "title": {},
+        "title": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        },
         "intro_text": {}
       },
       "_translatedFields": {

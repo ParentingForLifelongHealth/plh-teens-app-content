@@ -13,7 +13,14 @@
       "name": "title",
       "value": "Support Contacts",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        }
       },
       "exclude_from_translation": true,
       "_nested_name": "title"
@@ -23,7 +30,9 @@
       "name": "text",
       "value": "I need help with:",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       },
       "_nested_name": "text"
     },
@@ -185,6 +194,6 @@
   ],
   "_xlsxPath": "global/core_templates/core_templates_parent_centre.xlsx",
   "_overrides": {
-    "parent_centre_support_con_tz": "@fields._deployment_name == \"plh_tz\""
+    "parent_centre_support_con_tz": "@fields._deployment_name == \"plh_teens_tz\""
   }
 }

@@ -31,7 +31,14 @@
       "template": "w_consequence_learn_1_temp",
       "title": "Learn",
       "_translations": {
-        "title": {}
+        "title": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -48,7 +55,14 @@
       "template": "w_consequence_talk_2",
       "title": "Talk Together",
       "_translations": {
-        "title": {}
+        "title": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -84,7 +98,14 @@
       "template": "w_consequence_learn_2_temp",
       "title": "Learn",
       "_translations": {
-        "title": {}
+        "title": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -102,7 +123,9 @@
       "template": "w_consequence_try",
       "title": "Try it out!",
       "_translations": {
-        "title": {}
+        "title": {
+          "tz_sw": true
+        }
       },
       "_translatedFields": {
         "title": {

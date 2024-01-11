@@ -42,7 +42,14 @@
           "name": "title",
           "value": "Return the phone and save up",
           "_translations": {
-            "value": {}
+            "value": {
+              "tz_sw": true,
+              "za_af": true,
+              "za_st": true,
+              "za_tn": true,
+              "za_xh": true,
+              "za_zu": true
+            }
           },
           "hidden": false,
           "type": "set_variable",
@@ -76,7 +83,14 @@
           "name": "dashed_box",
           "value": "This is great! Try the third option as well.",
           "_translations": {
-            "value": {}
+            "value": {
+              "tz_sw": true,
+              "za_af": true,
+              "za_st": true,
+              "za_tn": true,
+              "za_xh": true,
+              "za_zu": true
+            }
           },
           "hidden": false,
           "parameter_list": {

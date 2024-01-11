@@ -10,7 +10,14 @@
       "name": "parent_app",
       "value": "ParentApp",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        }
       }
     },
     {
@@ -18,7 +25,14 @@
       "name": "home_screen",
       "value": "Home",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        }
       }
     },
     {
@@ -26,7 +40,9 @@
       "name": "weekly_workshops",
       "value": "Modules",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       }
     },
     {
@@ -34,7 +50,9 @@
       "name": "weekly_workshop",
       "value": "Module",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       }
     },
     {
@@ -42,7 +60,14 @@
       "name": "options",
       "value": "Options",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        }
       }
     },
     {
@@ -59,7 +84,9 @@
       "name": "workshops",
       "value": "modules",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       }
     },
     {
@@ -67,7 +94,9 @@
       "name": "workshop",
       "value": "module",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       }
     },
     {
@@ -75,7 +104,9 @@
       "name": "workshops_capital",
       "value": "Modules",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       }
     },
     {
@@ -83,7 +114,9 @@
       "name": "workshop_capital",
       "value": "Module",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       }
     },
     {
@@ -91,7 +124,14 @@
       "name": "parent_points",
       "value": "ParentPoints",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        }
       }
     },
     {
@@ -99,7 +139,14 @@
       "name": "parent_point",
       "value": "ParentPoint",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        }
       }
     },
     {
@@ -107,7 +154,14 @@
       "name": "parent_centre",
       "value": "Parent Library",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        }
       }
     },
     {
@@ -115,7 +169,14 @@
       "name": "in_week_messages",
       "value": "In-Week Messages",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        }
       }
     }
   ],

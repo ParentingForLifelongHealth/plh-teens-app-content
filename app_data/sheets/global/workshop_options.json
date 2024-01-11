@@ -32,7 +32,14 @@
       "name": "together",
       "value": "In my group",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        }
       }
     },
     {
@@ -49,7 +56,14 @@
       "name": "individual",
       "value": "By myself",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        }
       }
     },
     {
@@ -75,7 +89,9 @@
       "name": "user_name_default",
       "value": "Awesome parent",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       }
     },
     {
@@ -92,7 +108,14 @@
       "name": "group_name_default",
       "value": "friends",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        }
       }
     },
     {
@@ -127,7 +150,9 @@
       "name": "safety_word",
       "value": "Safety Word",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       }
     },
     {
@@ -135,7 +160,9 @@
       "name": "safety_word_example_1",
       "value": "Aunty Cecilia",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true
+        }
       }
     }
   ],

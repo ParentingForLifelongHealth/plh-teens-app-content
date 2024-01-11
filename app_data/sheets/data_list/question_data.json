@@ -82,10 +82,31 @@
       "_translations": {
         "question_text": {},
         "option_1": {},
-        "option_2": {},
-        "option_3": {},
+        "option_2": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        },
+        "option_3": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        },
         "option_4": {},
-        "option_5": {},
+        "option_5": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        },
         "reply_all": {}
       },
       "_translatedFields": {

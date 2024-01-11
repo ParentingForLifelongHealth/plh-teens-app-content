@@ -8,7 +8,14 @@
       "name": "title_1",
       "value": "What does that mean?",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        }
       },
       "_nested_name": "title_1"
     },
@@ -28,7 +35,14 @@
       "name": "title_2",
       "value": "How can you help?",
       "_translations": {
-        "value": {}
+        "value": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        }
       },
       "_nested_name": "title_2"
     },

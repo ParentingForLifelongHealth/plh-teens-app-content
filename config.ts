@@ -8,7 +8,7 @@ import { SKINS } from "./skins";
  */
 
 config.google_drive = {
-  sheets_folder_ids: ["1n221Zv9LYuwxmjhiboq8vhQg67_K9L5f","1nL584qbhsWKSkflfwyk2ARKufsDtV7Mx"],
+  sheets_folder_ids: ["1n221Zv9LYuwxmjhiboq8vhQg67_K9L5f","1UXVz71HniwdtklFnGUEBzzj8ZHI9oQVo"],
   assets_folder_ids: ["1dp9QAQ84m8pm0IBQTSPXe1ramyynKPNn"],
 };
 config.android = {

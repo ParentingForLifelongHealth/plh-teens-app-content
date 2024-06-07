@@ -8,7 +8,7 @@ import { SKINS } from "./skins";
  */
 
 config.google_drive = {
-  sheets_folder_ids: ["1n221Zv9LYuwxmjhiboq8vhQg67_K9L5f"],
+  sheets_folder_ids: ["1n221Zv9LYuwxmjhiboq8vhQg67_K9L5f","1UXVz71HniwdtklFnGUEBzzj8ZHI9oQVo"],
   assets_folder_ids: ["1dp9QAQ84m8pm0IBQTSPXe1ramyynKPNn"],
 };
 config.android = {
@@ -20,7 +20,7 @@ config.android = {
 
 config.git = {
   content_repo: "https://github.com/IDEMSInternational/plh-teens-app-content.git",
-  content_tag_latest: "1.1.4",
+  content_tag_latest: "1.1.5",
 };
 
 config.api.db_name = "plh_teens"

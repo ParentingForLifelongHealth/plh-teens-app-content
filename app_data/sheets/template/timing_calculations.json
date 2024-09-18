@@ -563,7 +563,7 @@
           },
           "condition": "@item.number == @fields.workshop_number",
           "exclude_from_translation": true,
-          "_nested_name": "items.workshop_id",
+          "_nested_name": "items_17.workshop_id",
           "_dynamicFields": {
             "value": [
               {
@@ -601,8 +601,8 @@
           }
         }
       ],
-      "name": "items",
-      "_nested_name": "items",
+      "name": "items_17",
+      "_nested_name": "items_17",
       "_dynamicFields": {
         "value": [
           {

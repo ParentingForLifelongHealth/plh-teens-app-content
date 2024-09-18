@@ -230,6 +230,38 @@
       }
     },
     {
+      "name": "yes",
+      "value": "Yes",
+      "_translations": {
+        "value": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        }
+      },
+      "type": "set_variable",
+      "_nested_name": "yes"
+    },
+    {
+      "name": "no",
+      "value": "No",
+      "_translations": {
+        "value": {
+          "tz_sw": true,
+          "za_af": true,
+          "za_st": true,
+          "za_tn": true,
+          "za_xh": true,
+          "za_zu": true
+        }
+      },
+      "type": "set_variable",
+      "_nested_name": "no"
+    },
+    {
       "type": "template",
       "name": "learn",
       "value": "learn_temp",
@@ -339,11 +371,49 @@
                         {
                           "name": "answer_list",
                           "value": [
-                            "name:yes | text:Yes",
-                            "name:no | text:No"
+                            {
+                              "name": "yes",
+                              "text": "@local.yes"
+                            },
+                            {
+                              "name": "no",
+                              "text": "@local.no"
+                            }
                           ],
                           "type": "set_variable",
-                          "_nested_name": "learn.workshop_activity.content_box.box_2.radio_buttons_1.answer_list"
+                          "_nested_name": "learn.workshop_activity.content_box.box_2.radio_buttons_1.answer_list",
+                          "_dynamicFields": {
+                            "value": {
+                              "0": {
+                                "text": [
+                                  {
+                                    "fullExpression": "@local.yes",
+                                    "matchedExpression": "@local.yes",
+                                    "type": "local",
+                                    "fieldName": "yes"
+                                  }
+                                ]
+                              },
+                              "1": {
+                                "text": [
+                                  {
+                                    "fullExpression": "@local.no",
+                                    "matchedExpression": "@local.no",
+                                    "type": "local",
+                                    "fieldName": "no"
+                                  }
+                                ]
+                              }
+                            }
+                          },
+                          "_dynamicDependencies": {
+                            "@local.yes": [
+                              "value.0.text"
+                            ],
+                            "@local.no": [
+                              "value.1.text"
+                            ]
+                          }
                         }
                       ],
                       "_nested_name": "learn.workshop_activity.content_box.box_2.radio_buttons_1"
@@ -364,11 +434,49 @@
                         {
                           "name": "answer_list",
                           "value": [
-                            "name:yes | text:Yes",
-                            "name:no | text:No"
+                            {
+                              "name": "yes",
+                              "text": "@local.yes"
+                            },
+                            {
+                              "name": "no",
+                              "text": "@local.no"
+                            }
                           ],
                           "type": "set_variable",
-                          "_nested_name": "learn.workshop_activity.content_box.box_2.radio_buttons_2.answer_list"
+                          "_nested_name": "learn.workshop_activity.content_box.box_2.radio_buttons_2.answer_list",
+                          "_dynamicFields": {
+                            "value": {
+                              "0": {
+                                "text": [
+                                  {
+                                    "fullExpression": "@local.yes",
+                                    "matchedExpression": "@local.yes",
+                                    "type": "local",
+                                    "fieldName": "yes"
+                                  }
+                                ]
+                              },
+                              "1": {
+                                "text": [
+                                  {
+                                    "fullExpression": "@local.no",
+                                    "matchedExpression": "@local.no",
+                                    "type": "local",
+                                    "fieldName": "no"
+                                  }
+                                ]
+                              }
+                            }
+                          },
+                          "_dynamicDependencies": {
+                            "@local.yes": [
+                              "value.0.text"
+                            ],
+                            "@local.no": [
+                              "value.1.text"
+                            ]
+                          }
                         },
                         {
                           "name": "reply",

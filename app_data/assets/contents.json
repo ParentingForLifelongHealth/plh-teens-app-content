@@ -1,21 +1,17 @@
 {
   "android/icon-background.png": {
-    "filePath": "global/android/icon-background.png",
     "md5Checksum": "4d74b997d4ac22f99b48f717ff9a3a07",
     "size_kb": 6.4
   },
   "android/icon-foreground.png": {
-    "filePath": "global/android/icon-foreground.png",
     "md5Checksum": "21703838b036bf47d9e7aadab8a0774d",
     "size_kb": 31.4
   },
   "android/icon.png": {
-    "filePath": "global/android/icon.png",
     "md5Checksum": "21703838b036bf47d9e7aadab8a0774d",
     "size_kb": 31.4
   },
   "android/splash.png": {
-    "filePath": "global/android/splash.png",
     "md5Checksum": "b0c03fe0d1c374ba04fa7d554f26bc01",
     "size_kb": 123.3
   },
@@ -3946,5 +3942,9 @@
       }
     },
     "size_kb": 1.8
+  },
+  "web/favicon.png": {
+    "md5Checksum": "2265c040569691441d445a1696bd5035",
+    "size_kb": 6.3
   }
 }

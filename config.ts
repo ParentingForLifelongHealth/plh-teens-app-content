@@ -20,7 +20,7 @@ config.android = {
 
 config.git = {
   content_repo: "https://github.com/IDEMSInternational/plh-teens-app-content.git",
-  content_tag_latest: "1.1.5",
+  content_tag_latest: "1.1.6",
 };
 
 config.api.db_name = "plh_teens"

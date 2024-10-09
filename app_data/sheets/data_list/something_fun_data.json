@@ -12,7 +12,6 @@
       "favourite_field": "activity_reflect_positive_favourite",
       "spend_time": true,
       "completed_field": "reflect_positive_completed",
-      "completed": "@fields.reflect_positive_completed",
       "title": "Reflect on the positive",
       "_translations": {
         "title": {
@@ -50,7 +49,6 @@
       "favourite_field": "activity_check_in_chat_favourite",
       "spend_time": true,
       "completed_field": "check_in_chat_completed",
-      "completed": "@fields.check_in_chat_completed",
       "title": "Check-in chat",
       "_translations": {
         "title": {
@@ -88,7 +86,6 @@
       "favourite_field": "activity_dream_travel_favourite",
       "spend_time": true,
       "completed_field": "dream_travel_completed",
-      "completed": "@fields.dream_travel_completed",
       "title": "Dream travel",
       "_translations": {
         "title": {},
@@ -119,7 +116,6 @@
       "favourite_field": "activity_famous_party_favourite",
       "spend_time": true,
       "completed_field": "famous_party_completed",
-      "completed": "@fields.famous_party_completed",
       "title": "Famous party",
       "_translations": {
         "title": {},
@@ -150,7 +146,6 @@
       "favourite_field": "activity_two_truths_favourite",
       "spend_time": true,
       "completed_field": "two_truths_completed",
-      "completed": "@fields.two_truths_completed",
       "title": "Two truths, one lie",
       "_translations": {
         "title": {
@@ -188,7 +183,6 @@
       "favourite_field": "activity_time_machine_favourite",
       "spend_time": true,
       "completed_field": "time_machine_completed",
-      "completed": "@fields.time_machine_completed",
       "title": "Time machine",
       "_translations": {
         "title": {},
@@ -219,7 +213,6 @@
       "favourite_field": "activity_superpowers_favourite",
       "spend_time": true,
       "completed_field": "superpowers_completed",
-      "completed": "@fields.superpowers_completed",
       "title": "Superpowers",
       "_translations": {
         "title": {
@@ -256,7 +249,6 @@
       "favourite_field": "activity_friendly_chat_favourite",
       "spend_time": true,
       "completed_field": "friendly_chat_completed",
-      "completed": "@fields.friendly_chat_completed",
       "title": "Just a friendly chat",
       "_translations": {
         "title": {
@@ -293,7 +285,6 @@
       "favourite_field": "activity_interrupter_favourite",
       "spend_time": true,
       "completed_field": "interrupter_completed",
-      "completed": "@fields.interrupter_completed",
       "title": "The interrupter",
       "_translations": {
         "title": {},
@@ -316,7 +307,6 @@
       "favourite_field": "activity_three_options_favourite",
       "spend_time": true,
       "completed_field": "three_options_completed",
-      "completed": "@fields.three_options_completed",
       "title": "Three options",
       "_translations": {
         "title": {
@@ -353,7 +343,6 @@
       "favourite_field": "activity_yes_no_maybe_favourite",
       "spend_time": true,
       "completed_field": "yes_no_maybe_completed",
-      "completed": "@fields.yes_no_maybe_completed",
       "title": "Yes, no or maybe",
       "_translations": {
         "title": {},
@@ -376,7 +365,6 @@
       "favourite_field": "activity_memory_game_favourite",
       "spend_time": true,
       "completed_field": "memory_game_completed",
-      "completed": "@fields.memory_game_completed",
       "title": "Memory game – \"On Saturday...\"",
       "_translations": {
         "title": {},
@@ -399,7 +387,6 @@
       "favourite_field": "activity_invent_story_favourite",
       "spend_time": true,
       "completed_field": "invent_story_completed",
-      "completed": "@fields.invent_story_completed",
       "title": "Make up a story",
       "_translations": {
         "title": {
@@ -430,7 +417,6 @@
       "favourite_field": "activity_co_chef_favourite",
       "spend_time": true,
       "completed_field": "co_chef_completed",
-      "completed": "@fields.co_chef_completed",
       "title": "Co-chef",
       "_translations": {
         "title": {
@@ -468,7 +454,6 @@
       "favourite_field": "activity_dance_moves_favourite",
       "spend_time": true,
       "completed_field": "dance_moves_completed",
-      "completed": "@fields.dance_moves_completed",
       "title": "Dance moves",
       "_translations": {
         "title": {
@@ -506,7 +491,6 @@
       "favourite_field": "activity_mirror_favourite",
       "spend_time": true,
       "completed_field": "mirror_completed",
-      "completed": "@fields.mirror_completed",
       "title": "Mirror",
       "_translations": {
         "title": {
@@ -536,7 +520,6 @@
       "favourite_field": "activity_whats_new_favourite",
       "spend_time": true,
       "completed_field": "whats_new_completed",
-      "completed": "@fields.whats_new_completed",
       "title": "What's new?",
       "_translations": {
         "title": {
@@ -566,7 +549,6 @@
       "favourite_field": "activity_get_active_favourite",
       "spend_time": true,
       "completed_field": "get_active_completed",
-      "completed": "@fields.get_active_completed",
       "title": "Get active!",
       "_translations": {
         "title": {
@@ -603,7 +585,6 @@
       "favourite_field": "activity_name_that_tune_favourite",
       "spend_time": true,
       "completed_field": "name_that_tune_completed",
-      "completed": "@fields.name_that_tune_completed",
       "title": "Name that tune",
       "_translations": {
         "title": {
@@ -640,7 +621,6 @@
       "favourite_field": "activity_pass_the_snap_favourite",
       "spend_time": true,
       "completed_field": "pass_the_snap_completed",
-      "completed": "@fields.pass_the_snap_completed",
       "title": "Pass the snap",
       "_translations": {
         "title": {
@@ -689,7 +669,6 @@
       "favourite_field": "activity_family_workout_favourite",
       "spend_time": true,
       "completed_field": "family_workout_completed",
-      "completed": "@fields.family_workout_completed",
       "title": "Family workout",
       "_translations": {
         "title": {
@@ -727,7 +706,6 @@
       "favourite_field": "activity_housework_favourite",
       "spend_time": true,
       "completed_field": "housework_completed",
-      "completed": "@fields.housework_completed",
       "title": "Make housework fun",
       "_translations": {
         "title": {
@@ -770,7 +748,6 @@
       "favourite_field": "activity_doing_what_favourite",
       "spend_time": true,
       "completed_field": "doing_what_completed",
-      "completed": "@fields.doing_what_completed",
       "title": "What are you doing?",
       "_translations": {
         "title": {
@@ -819,7 +796,6 @@
       "favourite_field": "activity_crazy_chicken_favourite",
       "spend_time": true,
       "completed_field": "crazy_chicken_completed",
-      "completed": "@fields.crazy_chicken_completed",
       "title": "Crazy chicken",
       "_translations": {
         "title": {

@@ -7,12 +7,18 @@
       "operation": "append_columns",
       "args_list": [
         "completed_field: task_{@row.id}_completed",
-        "completed: @fields.@row.completed_field",
         "skipped_field: task_{@row.id}_skipped"
       ],
       "input_source": "workshop_data",
       "output_target": "workshop_tasks"
     }
   ],
-  "_xlsxPath": "global/data/workshop_data/workshop_data_pipes.xlsx"
+  "_xlsxPath": "global/data/workshop_data/workshop_data_pipes.xlsx",
+  "_output_flows": [
+    {
+      "flow_name": "workshop_tasks",
+      "flow_subtype": "generated",
+      "flow_type": "data_list"
+    }
+  ]
 }

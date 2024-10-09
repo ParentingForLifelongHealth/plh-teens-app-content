@@ -10,8 +10,7 @@
       "together": true,
       "template": "w_grief_read_grief_conflict",
       "rel_priority": 1,
-      "completed_field": "task_w_grief_read_grief_conflict_completed",
-      "completed": "@fields.task_w_grief_read_grief_conflict_completed"
+      "completed_field": "task_w_grief_read_grief_conflict_completed"
     }
   ]
 }

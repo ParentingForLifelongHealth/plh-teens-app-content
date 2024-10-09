@@ -79,7 +79,6 @@
       "teen_testimonial_script": "My dad was always busy. He would come home from work and snap at us when we started asking him questions. \n\n@global.parent_app helped us a lot. We no longer fight. Now, when my dad comes home, he first sits down by himself for 5 minutes and then we do a relaxing activity from @global.parent_app together, so we can all take a deep breath and relax. Then we can chat about our day, about anything good or bad that happened. Everyone is so much happier now.",
       "in_text_title": "**Welcome and Self-Care** @global.workshop",
       "completed_field": "task_w_self_care_completed",
-      "completed": "@fields.task_w_self_care_completed",
       "skipped_field": "task_w_self_care_skipped"
     },
     {
@@ -137,7 +136,6 @@
       "in_text_title": "**One-on-One Time** @global.workshop",
       "something_fun_data": "@data.something_fun.co_chef",
       "completed_field": "task_w_1on1_completed",
-      "completed": "@fields.task_w_1on1_completed",
       "skipped_field": "task_w_1on1_skipped"
     },
     {
@@ -195,7 +193,6 @@
       "in_text_title": "**Praise** @global.workshop",
       "something_fun_data": "@data.something_fun.reflect_positive",
       "completed_field": "task_w_praise_completed",
-      "completed": "@fields.task_w_praise_completed",
       "skipped_field": "task_w_praise_skipped"
     },
     {
@@ -253,7 +250,6 @@
       "in_text_title": "**Positive Instructions** @global.workshop",
       "something_fun_data": "@data.something_fun.dance_moves",
       "completed_field": "task_w_instruct_completed",
-      "completed": "@fields.task_w_instruct_completed",
       "skipped_field": "task_w_instruct_skipped"
     },
     {
@@ -311,7 +307,6 @@
       "in_text_title": "**Managing Stress** @global.workshop",
       "something_fun_data": "@data.something_fun.check_in_chat",
       "completed_field": "task_w_stress_completed",
-      "completed": "@fields.task_w_stress_completed",
       "skipped_field": "task_w_stress_skipped"
     },
     {
@@ -379,7 +374,6 @@
       "in_text_title": "**Problem Solving** @global.workshop",
       "something_fun_data": "@data.something_fun.mirror",
       "completed_field": "task_w_solve_completed",
-      "completed": "@fields.task_w_solve_completed",
       "skipped_field": "task_w_solve_skipped"
     },
     {
@@ -447,7 +441,6 @@
       "in_text_title": "**Family Budgets** @global.workshop",
       "something_fun_data": "@data.something_fun.dream_travel",
       "completed_field": "task_w_money_completed",
-      "completed": "@fields.task_w_money_completed",
       "skipped_field": "task_w_money_skipped"
     },
     {
@@ -510,7 +503,6 @@
       "in_text_title": "**Rules** @global.workshop",
       "something_fun_data": "@data.something_fun.famous_party",
       "completed_field": "task_w_rules_completed",
-      "completed": "@fields.task_w_rules_completed",
       "skipped_field": "task_w_rules_skipped"
     },
     {
@@ -573,7 +565,6 @@
       "in_text_title": "**Calm Consequences** @global.workshop",
       "something_fun_data": "@data.something_fun.two_truths",
       "completed_field": "task_w_consequence_completed",
-      "completed": "@fields.task_w_consequence_completed",
       "skipped_field": "task_w_consequence_skipped"
     },
     {
@@ -636,7 +627,6 @@
       "in_text_title": "**Teen Safety** @global.workshop",
       "something_fun_data": "@data.something_fun.time_machine",
       "completed_field": "task_w_safe_completed",
-      "completed": "@fields.task_w_safe_completed",
       "skipped_field": "task_w_safe_skipped"
     },
     {
@@ -699,7 +689,6 @@
       "in_text_title": "**Dealing with Crisis** @global.workshop",
       "something_fun_data": "@data.something_fun.superpowers",
       "completed_field": "task_w_crisis_completed",
-      "completed": "@fields.task_w_crisis_completed",
       "skipped_field": "task_w_crisis_skipped"
     },
     {
@@ -745,7 +734,6 @@
       "in_text_title": "**Celebration and Next Steps** @global.workshop",
       "something_fun_data": "@data.something_fun.get_active",
       "completed_field": "task_w_celebrate_completed",
-      "completed": "@fields.task_w_celebrate_completed",
       "skipped_field": "task_w_celebrate_skipped"
     },
     {
@@ -792,7 +780,6 @@
       "in_text_title": "**Body Changes and Intimate Relationships** @global.workshop",
       "something_fun_data": "@data.something_fun.friendly_chat",
       "completed_field": "task_w_srh_completed",
-      "completed": "@fields.task_w_srh_completed",
       "skipped_field": "task_w_srh_skipped"
     },
     {
@@ -839,7 +826,6 @@
       "in_text_title": "**Staying Safe** @global.workshop",
       "something_fun_data": "@data.something_fun.three_options",
       "completed_field": "task_w_svp_completed",
-      "completed": "@fields.task_w_svp_completed",
       "skipped_field": "task_w_svp_skipped"
     },
     {
@@ -886,7 +872,6 @@
       "in_text_title": "**Coping with Grief** @global.workshop",
       "something_fun_data": "@data.something_fun.whats_new",
       "completed_field": "task_w_grief_completed",
-      "completed": "@fields.task_w_grief_completed",
       "skipped_field": "task_w_grief_skipped"
     },
     {
@@ -933,7 +918,6 @@
       "in_text_title": "**Helping Your Teen Learn** @global.workshop",
       "something_fun_data": "@data.something_fun.doing_what",
       "completed_field": "task_w_learn_completed",
-      "completed": "@fields.task_w_learn_completed",
       "skipped_field": "task_w_learn_skipped"
     }
   ]

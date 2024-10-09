@@ -102,5 +102,32 @@
       "value": "@data.@local.reply_all_concat"
     }
   ],
-  "_xlsxPath": "global/top_templates/workshop_templates/workshop_srh.xlsx"
+  "_xlsxPath": "global/top_templates/workshop_templates/workshop_srh.xlsx",
+  "_output_flows": [
+    {
+      "flow_name": "w_srh_sex_talk_when_1",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "w_srh_sex_talk_when_2",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "w_srh_sex_talk_when_3",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "w_srh_sex_talk_when_4",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    {
+      "flow_name": "w_srh_sex_talk_when_5",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    }
+  ]
 }
